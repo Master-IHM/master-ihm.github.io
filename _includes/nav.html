@@ -11,19 +11,31 @@
         </div>
 
         <div class="logoplace">
-            <a href="/"><img src="assets/img/logo_master.svg" alt="logo master" class="menu__logo" width="100"></a>
+            <a href="/"><img src="{{ "assets/img/logo_master.svg" | absolute_url}}" alt="logo master" class="menu__logo" width="100"></a>
         </div>
         <div class="collapse navbar-collapse menu menu--prospero" id="bs-example-navbar-collapse-1">
             <div class="center_left navbar-left">
                 <ul class="nav navbar-nav menu__list">
-                    <li class=" menu__item ">
-                        <a class="menu__link" href="/">ACCUEIL</a>
+                    {% if page.menuname == "ACCUEIL" %}
+                    <li class="menu__item menu__item--current">
+                    {% else %} 
+                     <li class="menu__item "> 
+                    {% endif %}
+                        <a class="menu__link" href="{{ "index.html" | absolute_url }}">ACCUEIL</a>
                     </li>
-                    <li class=" menu__item ">
-                        <a class="menu__link" href="/page/formation">FORMATION</a>
+                    {% if page.menuname == "FORMATION" %}
+                    <li class="menu__item menu__item--current">
+                    {% else %} 
+                     <li class="menu__item "> 
+                    {% endif %}
+                        <a class="menu__link" href="{{ "formation.html" | absolute_url }}">FORMATION</a>
                     </li>
-                    <li class=" menu__item ">
-                        <a class="menu__link" href="/page/alternance">ALTERNANCE</a>
+                    {% if page.menuname == "ALTERNANCE" %}
+                    <li class="menu__item menu__item--current">
+                    {% else %} 
+                     <li class="menu__item "> 
+                    {% endif %}
+                        <a class="menu__link" href="{{ "alternance.html" | absolute_url }}">ALTERNANCE</a>
                     </li>
                 </ul>
             </div>
@@ -34,14 +46,14 @@
                     {% else %} 
                      <li class="menu__item "> 
                     {% endif %}
-                        <a class="menu__link" href="le-monde-de-l-ihm.html">L'IHM</a>
+                        <a class="menu__link" href="{{ "le-monde-de-l-ihm.html" | absolute_url }}">L'IHM</a>
                     </li>
                     {% if page.menuname == "EDT" %}
                     <li class="menu__item menu__item--current">
                     {% else %} 
                      <li class="menu__item "> 
                     {% endif %}
-                        <a class="menu__link" href="emploi-du-temps.html">EMPLOI DU TEMPS</a>
+                        <a class="menu__link" href="{{ "emploi-du-temps.html" | absolute_url }}">EMPLOI DU TEMPS</a>
                     </li>
                 </ul>
             </div>

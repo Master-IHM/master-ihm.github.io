@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 use-site-title: true
 ---
 

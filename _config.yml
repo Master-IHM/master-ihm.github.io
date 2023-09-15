@@ -4,6 +4,7 @@ title: Master IHM
 
 markdown: kramdown
 
+baseurl: ""
 
 kramdown:
   parse_block_html: true

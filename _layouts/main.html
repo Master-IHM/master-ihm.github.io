@@ -1,0 +1,449 @@
+<!doctype html>
+<html>
+    {% include head.html %}  
+    <body>
+        {% include nav.html %}
+        {% include header.html %}  
+
+
+        <div class="container-fluid top-buffer bandGrey">
+            <div class="container-fluid bottom-buffer">
+                <div class="row carousel">
+                    <div id="myCarousel" class="carousel slide multi-item-carousel" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                            <li data-target="#myCarousel" data-slide-to="4"></li>
+                            <li data-target="#myCarousel" data-slide-to="5"></li>
+                            <li data-target="#myCarousel" data-slide-to="6"></li>
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="col-sm-4">
+                                    <a href="assets/img/slideb1.svg"><img class="img-responsive" src="assets/img/slideb1.svg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-sm-4">
+                                    <a href="assets/img/slideb2.svg"><img class="img-responsive" src="assets/img/slideb2.svg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-sm-4">
+                                    <a href="assets/img/slideb3.svg"><img class="img-responsive" src="assets/img/slideb3.svg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-sm-4">
+                                    <a href="assets/img/slideb4.svg"><img class="img-responsive" src="assets/img/slideb4.svg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-sm-4">
+                                    <a href="assets/img/slideb5.svg"><img class="img-responsive" src="assets/img/slideb5.svg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-sm-4">
+                                    <a href="assets/img/slideb6.svg"><img class="img-responsive" src="assets/img/slideb6.svg" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="col-sm-4">
+                                    <a href="assets/img/slideb7.svg"><img class="img-responsive" src="assets/img/slideb7.svg" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Left and right controls -->
+                        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row top-buffer">
+                    <div class="col-md-6 col-xs-12 center">
+                        <div class="row mobile">
+                            <div class="col-xs-12 col-sm-6 center">
+                                <img class="logo-etudiant" src="assets/img/etudiant.svg"/>
+                                <h4 class="titre"><a href="#panneau-1" aria-expanded="false" aria-controls="panneau-1"><p>Etudiants</p><img class="arrow-panneau right" src="assets/img/down-arrow.svg"/></a></h4>
+                                <div id="panneau-1" class="info panneau etudiant--info "> <!-- Doit etre hidden quand on est au dessus de 780px -->
+                                    <h3> Master 1</h3>
+                                    <ul class="list-m1">
+                                        <li><a href="formation-master-1.html#inscription">Candidature / Inscription</a></li>
+                                        <li><a href="formation-master-1.html#rentree">Rentrée</a></li>
+                                        <li><a href="formation-master-1.html#cours">Cours</a></li>
+                                        <li><a href="formation-master-1.html#recherchestage">Recherche de stage</a></li>
+                                        <li><a href="formation-master-1.html#projetTIR">Projets/TIR</a></li>
+                                        <li><a href="formation-master-1.html#stageetudiant">Stage</a></li>
+                                        <li><a href="formation-master-1.html#soutenance">Soutenance</a></li>
+                                    </ul>
+                                    <h3> Master 2</h3>
+                                    <ul class="list-m2">
+                                        <li><a href="formation-master-2.html#inscription">Inscription / Candidature</a></li>
+                                        <li><a href="formation-master-2.html#rentree">Rentrée</a></li>
+                                        <li><a href="formation-master-2.html#cours">Cours</a></li>
+                                        <li><a href="formation-master-2.html#recherchestage">Recherche de stage</a></li>
+                                        <li><a href="formation-master-2.html#coetudiant">Chef d'oeuvre</a></li>
+                                        <li><a href="formation-master-2.html#stageetudiant">Stage</a></li>
+                                        <li><a href="formation-master-2.html#soutenance">Soutenance</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <img class="logo-entreprise" src="assets/img/entreprise.svg"/>
+                                <h4 class="titre"><a href="#panneau-2" aria-expanded="false" aria-controls="panneau-2"><p>Entreprises</p><img class="arrow-panneau right" src="assets/img/down-arrow.svg"/></a></h4>
+                                <div id="panneau-2" class="panneau info entreprises--info "> <!-- Doit etre hidden quand on est au dessus de 780px -->
+                                    <h3> Master 1</h3>
+                                    <ul class="list-m1">
+                                        <li><a href="formation-master-1.html#proposerstage">Proposer un stage</a></li>
+                                        <li><a href="formation-master-1.html#stageentreprise">Stage</a></li>
+                                    </ul>
+                                    <h3> Master 2</h3>
+                                    <ul class="list-m2">
+                                        <li><a href="formation-master-2.html#proposerco">Proposition de Chef d'Oeuvre</a></li>
+                                        <li><a href="formation-master-2.html#proposerstage">Proposer un stage</a></li>
+                                        <li><a href="formation-master-2.html#coentreprise">Chef d'oeuvre</a></li>
+                                        <li><a href="formation-master-2.html#stageentreprise">Stage</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row desktop">
+                            <div class="col-xs-12 col-sm-6 center">
+                                <img class="logo-etu" src="assets/img/etudiant.svg"/>
+                                <h4>Etudiants</h4>
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <img class="logo-ent" src="assets/img/entreprise.svg"/>
+                                <h4>Entreprises</h4>
+                            </div>
+                        </div>
+
+
+                        <div class="timeline-all">
+                            <div>
+                                <div class="cd-timeline-img cd-picture"> MASTER 1</div>
+                                <div class="cd-timeline">
+
+                                    <div class="wrapper">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up bottom"></span>
+                                                <a href="formation-master-1.html#inscription">Candidature / Inscription</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-1.html#rentree">Rentrée</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-1.html#cours">Cours</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-1.html#recherchestage">Recherche de stage</a>
+                                            </div>
+                                        </div>
+                                        <div class="item cc">
+                                            <div class="dot">
+                                                <span class="arrow left pull-up"></span>
+                                                <a href="formation-master-1.html#proposerstage">Proposer un stage</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-1.html#projetTIR">Projets/TIR</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-1.html#stageetudiant">Stage</a>
+                                            </div>
+                                        </div>
+                                        <div class="item cc">
+                                            <div class="dot">
+                                                <span class="arrow left pull-up"></span>
+                                                <a href="formation-master-1.html#stageentreprise">Stage</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-1.html#soutenance">Soutenance</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="cd-timeline-img cd-picture"> MASTER 2</div>
+                                <div class="cd-timeline">
+
+                                    <div class="wrapper ">
+                                        <div class="item divider empty">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up"></span>
+
+                                            </div>
+                                        </div>
+                                        <div class="item cc">
+                                            <div class="dot">
+                                                <span class="arrow left pull-up bottom"></span>
+                                                <a href="formation-master-2.html#proposerco">Proposition de Chef d'Oeuvre</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up bottom"></span>
+                                                <a href="formation-master-2.html#inscription">Inscription / Candidature</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-2.html#rentree">Rentrée</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-2.html#cours">Cours</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-2.html#recherchestage">Recherche de stage</a>
+                                            </div>
+                                        </div>
+                                        <div class="item cc">
+                                            <div class="dot">
+                                                <span class="arrow left pull-up"></span>
+                                                <a href="formation-master-2.html#proposerstage">Proposer un stage</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-2.html#coetudiant">Chef d'oeuvre</a>
+                                            </div>
+                                        </div>
+                                        <div class="item cc">
+                                            <div class="dot">
+                                                <span class="arrow left pull-up"></span>
+                                                <a href="formation-master-2.html#coentreprise">Chef d'oeuvre</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-2.html#stageetudiant">Stage</a>
+                                            </div>
+                                        </div>
+                                        <div class="item cc">
+                                            <div class="dot">
+                                                <span class="arrow left pull-up"></span>
+                                                <a href="formation-master-2.html#stageentreprise">Stage</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="wrapper ">
+                                        <div class="item divider">
+                                            <div class="dot-after">
+                                                <span class="arrow right pull-up"></span>
+                                                <a href="formation-master-2.html#soutenance">Soutenance</a>
+                                            </div>
+                                        </div>
+                                        <div class="item empty">
+                                            <!--                <div class="dot">
+                                                                <span class="arrow left pull-up"></span>
+                                                                <a href="#offrejob">Offre d'emploi</a>
+                                            -->
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                                <div class="item cc">
+                                    <div class="">
+                                        <span class="left pull-up"></span>
+                                        <a href="devenir-des-etudiants.html">Que sont ils devenus ?</a>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xs-12">
+                        <div class="">
+                            <h2>Actualités</h2>
+                            <div class="top-buffer bottom-buffer">
+                                {% for post in site.posts %}
+                                <div class="row bottom-buffer">
+                                    <a href="./{{ post.url }}" class="newws">
+                                        <div class="col-sm-4 hidden-xs annoncePadding right">
+                                            <img src="{{ post.img }}" height="150" alt="" class="book"/>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-8 cardNoPadding linkAnnonce" style="margin: 0px 0px">
+
+                                            <h5 class="titleSmNews">{{ post.title }}</h5>
+                                            <div class="lightGrey dateNews">{{ post.date }}</div>
+
+                                        </div>
+                                    </a>
+                                    <!--<a href="{{ post.url }}">{{ post.title }}</a>-->
+                                </div>
+                                {% endfor %}
+                                <!--<div class="row bottom-buffer">
+                                    <a href="/web/20230513082129/https://masterihm.fr/blog/cafe-interactif/cafe-interactif-promo-ihm-2022" class="newws">
+                                        <div class="col-sm-4 hidden-xs annoncePadding right">
+                                            <img src="http://web.archive.org/web/20230513082129im_/https://masterihm.fr/media/cache/my_thumb_news/uploads/news/202303085148201803120704201611114235table-650x428.png" height="150" alt="" class="book"/>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-8 cardNoPadding linkAnnonce" style="margin: 0px 0px">
+
+                                            <h5 class="titleSmNews">Café interactif promo IHM 2022</h5>
+                                            <div class="lightGrey dateNews">Publié le 7 mars 2023
+                                            </div>
+
+                                        </div>
+                                    </a>
+                                </div>
+                                -->
+
+                                <div class="right">
+                                    <a class="btn btn-info" href="articles.html">Voir plus d'actualités</a>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid bandGrey">
+            <div class="container top-buffer bottom-buffer">
+                <h2 class="top-buffer bottom-buffer">Responsables de la formation</h2>
+                <div class="row top-buffer bottom-buffer">
+                    <div class="col-md-4">
+                        <div class="resp">
+                            <div class="resp__container">
+                                <div class="resp__photo">
+                                    <img src="assets/img/StephaneC.jpg" width="300" height="225"/>
+                                </div>
+                                <div class="resp__info">
+                                    <h3 class="whitey">Stéphane <br/>Conversy</h3>
+                                    <div class="right">
+                                        <a href="contact.html" class="whitey">Contacter</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4 bottom-buffer">
+                        <div class="resp">
+                            <div class="resp__container">
+                                <div class="resp__photo">
+                                    <img src="assets/img/AnkeBrock.jpg" width="300" height="225"/>
+                                </div>
+                                <div class="resp__info">
+                                    <h3 class="whitey">Anke <br/> Brock</h3>
+                                    <div class="right">
+                                        <a href="contact.html" class="whitey">Contacter</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 bottom-buffer">
+                        <div class="resp">
+                            <div class="resp__container">
+                                <div class="resp__photo">
+                                    <img src="assets/img/philpal.jpg" width="300" height="225"/>
+                                </div>
+                                <div class="resp__info">
+                                    <h3 class="whitey">Philippe <br/> Palanque</h3>
+                                    <div class="right">
+                                        <a href="contact.html" class="whitey">Contacter</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="assets/js/main.js"></script>
+        {% include footer.html %}
+    <body>
+</html>

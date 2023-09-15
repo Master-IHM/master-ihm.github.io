@@ -56,10 +56,10 @@ la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Av
 <div class="row">
 
 <div class="col-sm-6">
-[Déroulement du Master 1](formation-master-1.html){:class="btn btnPromo"}
+<a class="btn btnPromo" href="formation-master-1.html">Déroulement du Master 1</a>
 </div>
 <div class="col-sm-6">
-[Déroulement du Master 2](formation-master-2.html){:class="btn btnPromo"}
+<a class="btn btnPromo" href="formation-master-2.html">Déroulement du Master 2</a>
 </div>
 </div>
 .
@@ -71,7 +71,7 @@ la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Av
 
 Nos diplômés ont un taux d'insertion professionnelle excellent: 88% dans la spécialité (CDI ou doctorats, IHM en informatique et aéronautique), 
 12% hors de la spécialité (développement logiciel, aéronautique hors IHM), sur la base des emplois au bout d'un an dans les cinq dernières promotions. 
-A l'issue de la formation les diplômés en plus de leur maîtrise des techniques et des outils liés aux nouvelles technologies, 
+A l’issue de la formation les diplômés en plus de leur maîtrise des techniques et des outils liés aux nouvelles technologies, 
 leur maîtrise des méthodes de génie logiciel et de leurs connaissances en facteurs humain, sont capable de:
 
 
@@ -90,7 +90,7 @@ Gérer le développement centré utilisateur
 ![](assets/img/usability_norms.svg){: height="60px" width="60px"}
 </p>
 <p style="text-align:center">
-Identifier les besoins et appliquer des normes de présentation et d'utilisabilité
+Identifier les besoins et appliquer des normes de présentation et d’utilisabilité
 </p>
 </div>
 <div class="col-sm-3">
@@ -106,7 +106,7 @@ Concevoir et développer des systèmes intéractifs
 ![](assets/img/evaluation.svg){: height="60px" width="60px"}
 </p>
 <p style="text-align:center">
-D'évaluer l'ergonomie, l'utilisabilité et l'expérience utilisateur
+D’évaluer l’ergonomie, l’utilisabilité et l’expérience utilisateur
 </p>
 </div>
 </div>

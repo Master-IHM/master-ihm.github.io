@@ -5,7 +5,7 @@ menuname: IHM
 ---
 
 >L'Interaction Homme-Machine est la discipline qui se consacre à la conception,
->l'évaluation et la mise en oeuvre de systèmes informatiques interactifs pour l'usage 
+>l'évaluation et la mise en œuvre de systèmes informatiques interactifs pour l'usage 
 >humain ainsi qu'à l'étude des phénomènes majeurs qui les entourent 
 
 [Traduction de Hewett, T. et al., 1992 (chap. 2)] 
@@ -14,7 +14,7 @@ et mis en avant sur le site de l'**A**ssociation **F**rancophone de l'**I**ntera
 Le domaine de l'Interaction Homme-Machine couvre ainsi de nombreux aspects 
 appartenant à des disciplines connexes telles que l'**art**, le **design**, 
 l'**informatique** et les **sciences humaines et sociales**. 
-Le coeur de l'Interaction Homme-Machine se trouve en informatique qui est le lieu d'intégration 
+Le cœur de l'Interaction Homme-Machine se trouve en informatique qui est le lieu d'intégration 
 et de concrétisation des informations provenant des autres disciplines.
 
 C'est la raison pour laquelle le Master en Interaction Homme-Machine recrute des 

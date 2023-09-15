@@ -4,122 +4,166 @@ use-site-title: true
 menuname: FORMATION
 ---
 
-# Le Master en Bref
+# Inscription Master 2
 
-Le Master Interaction Homme-Machine (IHM) forme des professionnels de haut niveau, 
-spécialistes de la conception et du développement d'applications interactives, 
-maîtrisant les techniques propres à l'informatique et celles qui sont issues du domaine des facteurs humains.
+Etapes : [Mise à jour 15 décembre 2021]
 
-Le Master IHM apporte des connaissances approfondies dans le domaine de l'ingénierie logicielle, 
-complémentaires à celles acquises dans une licence informatique (prérequis).
+1. Dépot de candidatures: [3 mai 2021 - 4 juin 2021] le site principal de candidature est disponible à l'adresse suivante: [Site Candidatures UPS](https://www.univ-tlse3.fr/candidatures-et-inscriptions/candidatures).
+2. Inscription: le site principal d'inscription est disponible à l'adresse suivante: [Site Inscriptions UPS](https://www.univ-tlse3.fr/candidatures-et-inscriptions/inscriptions)
 
-Cette formation se déroule sur deux ans : la première année est un parcours ayant 
-un tronc commun avec le Master Informatique de l'[Université Paul Sabatier](https://www.univ-tlse3.fr/) (Toulouse 3), 
-la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Aviation Civile](https://www.enac.fr/fr) (ENAC).
+Pour plus d'informations vous pouvez contacter la secrétaire du master IHM :
+Sabine Dossant - [sabine.dossant@univ-tlse3.fr](mailto:sabine.dossant@univ-tlse3.fr)
 
 
-# Le Contenu Pédagogique
+# Accès à la deuxième année du Master IHM
+
+L'accès au Master 2 IHM est garanti aux étudiants du M1 IHM ayant validé leur année.
+
+Les autres devront faire une candidature electronique ( Site général de candidature en master de l'ups).
+
+Les résultats d'admission seront connus fin juin. 
+Une fois les résultats connus, les admis devront s'inscrire (ou se réinscrire) 
+administrativement mi-juillet (pour les étudiants exterieurs à l'Université Paul Sabatier, 
+se renseigner sur univ-tlse3.fr). 
+
+La confirmation d'inscription administrative et l'inscription pédagogique 
+s'effectura entre fin août et début septembre.
 
 
-<div class="row">
+# Contenu des enseignements
 
-<div class="col-sm-6">
+Cette deuxième année permet aux étudiants d'acquérir toutes les connaissances et compétences nécessaires 
+aux métiers de l'interaction homme machine. 
+Durant cette année, les étudiants seront formés aux facteurs humains, 
+aux techniques et technologies des systèmes interactifs, à la recherche scientifique 
+et aux méthodes d'expérimentation et d'évaluation. 
+Les étudiants seront également formés au prototypage et design d'interface, 
+leur permettant à l'issue du master d'assurer des postes charnières 
+au sein d'équipes pluridisciplinaires.
 
-## Master 1
-
-* Formation intégrée avec le master DL
-* 5 UE Tronc commun aux Master Informatiques de l'UPS
-* 6 UE de génie logiciel
-* 2 UE d'IHM
-* 1 Projet et 1 Travail d'Initiation à la Recherche
-* 1 Stage obligatoire
-
-
-
-</div>
-
-<div class="col-sm-6">
-## Master 2
-* Intégration totale Cours, TD et TP
-* Travail 100% du temps sur machine
-* Évaluation de plusieurs cours via le travail effectué lors du Chef d'oeuvre
-* Plusieurs enseignements dispensés en Anglais
-* Formation à l'Anglais appliqué au monde de l'entreprise (recherche d'emploi, presentations)
-* Chef d'oeuvre (projet fil rouge)
-* Stage de 4 à  6 mois
-
-
-
-</div>
-
-</div>
-<div class="row">
-
-<div class="col-sm-6">
-<a class="btn btnPromo" href="formation-master-1.html">Déroulement du Master 1</a>
-</div>
-<div class="col-sm-6">
-<a class="btn btnPromo" href="formation-master-2.html">Déroulement du Master 2</a>
-</div>
-</div>
-.
-* Conseils de pilotage de la formation 
-* Conseil pédagogique (responsables d'UE) 
-* Conseil de perfectionnement (relation avec les industriels) –Evaluation systématique des enseignements (en M2)
-
-# Les métiers
-
-Nos diplômés ont un taux d'insertion professionnelle excellent: 88% dans la spécialité (CDI ou doctorats, IHM en informatique et aéronautique), 
-12% hors de la spécialité (développement logiciel, aéronautique hors IHM), sur la base des emplois au bout d'un an dans les cinq dernières promotions. 
-A l’issue de la formation les diplômés en plus de leur maîtrise des techniques et des outils liés aux nouvelles technologies, 
-leur maîtrise des méthodes de génie logiciel et de leurs connaissances en facteurs humain, sont capable de:
-
+Les étudiants seront amenés à mettre en pratique les enseignements tout au long de 
+l'année avec le chef d'œuvre, un projet fil rouge proposé par une entreprise ou un laboratoire, 
+ainsi qu'à l'issue de la formation lors d'un stage d'une durée de 4 à 6 mois en entreprise ou en laboratoire.
 
 
 <div class="row">
-<div class="col-sm-3">
+<div class="col-sm-offset-1 col-sm-2">
 <p style="text-align:center">
-![](assets/img/ucd_process.svg){: height="60px" width="60px"}
+![](assets/img/ue_commun.svg){: height="60px" width="60px" }
 </p>
 <p style="text-align:center">
-Gérer le développement centré utilisateur
-</p>
-</div>
-<div class="col-sm-3">
-<p style="text-align:center">
-![](assets/img/usability_norms.svg){: height="60px" width="60px"}
-</p>
-<p style="text-align:center">
-Identifier les besoins et appliquer des normes de présentation et d’utilisabilité
+Facteurs Humains et Psychologie
 </p>
 </div>
-<div class="col-sm-3">
+<div class="col-sm-2">
 <p style="text-align:center">
-![](assets/img/ue_developpement.svg){: height="60px" width="60px"}
+![](assets/img/ue_developpement.svg){: height="60px" width="60px" }
 </p>
 <p style="text-align:center">
-Concevoir et développer des systèmes intéractifs
+Génie, Technologies et Techniques des Systèmes Interactifs
 </p>
 </div>
-<div class="col-sm-3">
+<div class="col-sm-2">
 <p style="text-align:center">
-![](assets/img/evaluation.svg){: height="60px" width="60px"}
+![](assets/img/research.svg){: height="60px" width="60px" }
 </p>
 <p style="text-align:center">
-D’évaluer l’ergonomie, l’utilisabilité et l’expérience utilisateur
+Recherche Scientifique et Méthodes d'Expérimentation
+</p>
+</div>
+<div class="col-sm-2">
+<p style="text-align:center">
+![](assets/img/ue_ihm.svg){: height="60px" width="60px" }
+</p>
+<p style="text-align:center">
+Prototypage et Design de Systèmes Interactifs
+</p>
+</div>
+<div class="col-sm-2">
+<p style="text-align:center">
+![](assets/img/ue_stage.svg){: height="60px" width="60px" }
+</p>
+<p style="text-align:center">
+1 Chef d'œuvre\\
+1 Stage
+</p>
+</div>
+</div>
+ 
+<p style="text-align:center">
+[Consulter le syllabus](https://www.univ-tlse3.fr/syllabus/SYL_M2_INF_IHM.pdf){:class="btn btnPromo"}
+</p>
+ 
+# Chefs d'œuvre
+
+[Détails et Organisation des chefs d'œuvre](chef-d-oeuvre.html)
+
+Le Chef d'œuvre est un projet fil rouge qui permet aux étudiants de mettre en pratique les techniques et 
+méthodes vues pendant l'année. 
+Les sujets sont proposés par des entreprises ou des laboratoires de recherche. 
+Tout au long de l'année, les étudiants, par groupe de 4 ou 5, travailleront sur ce projet en 
+collaboration avec leurs clients. 
+Les chefs d'œuvre sont présentés au public, début mars à l'occasion d'un café interactif se déroulant soit à l'ENAC, 
+soit à l'Université Paul Sabatier.
+
+<div class="row">
+<div class="col-sm-6">
+<p style="text-align:center">
+Chef d'œuvre des années passées\\
+des promotions précédentes
+</p>
+<p style="text-align:center">
+[Consulter la liste](promotions-m2-co.html){:class="btn btnPromo"}
+</p>
+</div>
+<div class="col-sm-6">
+<p style="text-align:center">
+Vous représentez une entreprise ?\\
+Vous souhaitez soumettre un sujet ?
+</p>
+<p style="text-align:center">
+[Contacter le responsable](contact.html){:class="btn btnPromo"}
 </p>
 </div>
 </div>
 
-# Nos Partenaires
+ 
+# Stages
 
-L'équipe pédagogique travaille en étroite collaboration avec des industriels pour continuellement améliorer la qualité de la formation. 
-A ce jour, nous sommes fiers de compter dans notre conseil de perfectionnement des représentants d'Aéroconseil (AKKA Technologies), Airbus, Intuilab, SOGETI High Tech, Thalès Air Systems.
+Le stage de la deuxième année de master se déroule durant une periode de 4 à 6 mois. 
+Les étudiants doivent effectuer ce stage au sein d'une entreprise ou d'un laboratoire 
+de recherche dans la capacité de les accueillir. 
+Les soutenances se déroulent début septembre et sont publiques (sauf cas exceptionnels), 
+l'occasion pour les futurs étudiants de voir les stages réalisés et de rencontrer la promotion sortante.
 
-<p style="text-align: center">
-![](assets/img/akka_technologies.png){:height="120px" width="120px" }
-![](assets/img/airbus.png){:height="120px" width="120px" }
-![](assets/img/intuilab.png){:height="120px" width="120px" }
-![](assets/img/sogeti.png){:height="120px" width="120px" }
-![](assets/img/thales.png){:height="120px" width="120px" }
+<div class="row">
+<div class="col-sm-6">
+<p style="text-align:center">
+Stages réalisés par les étudiants
+des promotions précédentes
 </p>
+<p style="text-align:center">
+[Consulter la liste](promotions-m2-stages.html){:class="btn btnPromo"}
+</p>
+</div>
+<div class="col-sm-6">
+<p style="text-align:center">
+Vous représentez une entreprise ?\\
+Vous souhaitez soumettre un sujet ?
+</p>
+<p style="text-align:center">
+[Contacter le responsable](contact.html){:class="btn btnPromo"}
+</p>
+</div>
+</div>
+
+# L'année du Master 1
+
+Pour vous informer sur le déroulement de la formation lors de la première année du master rendez-vous 
+sur la page du master 1.
+
+
+<p>
+<a class="btn btnPromo" href="formation-master-1.html">Master 1</a>
+</p>
+

@@ -1,0 +1,50 @@
+<nav class="navbar navbar-default navbar-fixed-top bandBlack topMenu">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed border-burger" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar burger"></span>
+                <span class="icon-bar burger"></span>
+                <span class="icon-bar burger"></span>
+            </button>
+        </div>
+
+        <div class="logoplace">
+            <a href="/"><img src="assets/img/logo_master.svg" alt="logo master" class="menu__logo" width="100"></a>
+        </div>
+        <div class="collapse navbar-collapse menu menu--prospero" id="bs-example-navbar-collapse-1">
+            <div class="center_left navbar-left">
+                <ul class="nav navbar-nav menu__list">
+                    <li class=" menu__item ">
+                        <a class="menu__link" href="/">ACCUEIL</a>
+                    </li>
+                    <li class=" menu__item ">
+                        <a class="menu__link" href="/page/formation">FORMATION</a>
+                    </li>
+                    <li class=" menu__item ">
+                        <a class="menu__link" href="/page/alternance">ALTERNANCE</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="center_right navbar-right">
+                <ul class="nav navbar-nav menu__list">
+                    {% if page.menuname == "IHM" %}
+                    <li class="menu__item menu__item--current">
+                    {% else %} 
+                     <li class="menu__item "> 
+                    {% endif %}
+                        <a class="menu__link" href="le-monde-de-l-ihm.html">L'IHM</a>
+                    </li>
+                    {% if page.menuname == "EDT" %}
+                    <li class="menu__item menu__item--current">
+                    {% else %} 
+                     <li class="menu__item "> 
+                    {% endif %}
+                        <a class="menu__link" href="emploi-du-temps.html">EMPLOI DU TEMPS</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>

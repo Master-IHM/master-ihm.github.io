@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    {% include head.html %}  
+    <body>
+        {% include nav.html %}
+        {% include header.html %}  
+
+        <div class="container-fluid bandGrey">
+            <div class="container top-buffer bottom-buffer">
+                <div class="row bottom-buffer">
+                    <div class="col-md-12 bottom-buffer">
+                        <div class="row">
+                            <div class="col-md12">
+                                {{ content }}
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% include footer.html %}
+    <body>
+</html>

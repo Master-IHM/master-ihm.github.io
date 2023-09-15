@@ -1,0 +1,27 @@
+# Site settings
+title: Master IHM
+
+
+markdown: kramdown
+
+
+kramdown:
+  parse_block_html: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+
+nav:
+  - title: ACCUEIL
+    url: deployment.html
+  - title: FORMATION
+    url: help.html
+  - title: ALTERNANCE
+    url: help.html
+  - title: L'IHM
+    url: help.html
+  - title: EMPLOI DU TEMPS
+    url: help.html

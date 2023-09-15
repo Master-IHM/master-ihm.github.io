@@ -21,7 +21,7 @@ C'est la raison pour laquelle le Master en Interaction Homme-Machine recrute des
 informaticiens de formation et leur permet d'acquérir les connaissances et les 
 compétences nécessaires à la réalisation de systèmes informatique interactifs en adéquation avec les besoins et les envies de leurs utilisateurs.
 
-![](assets/img/PaperWindow_300dpi.jpg){: height="264px" width="400px" }
+![](assets/img/PaperWindow_300dpi.jpg){: height="264px" width="400px" style="display:block; margin-left:auto; margin-right:auto"}
 
 <p align="center">
 Vue synthétique de l'IHM – entre l'humain et la machine - entre le numérique et le quotidien

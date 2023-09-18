@@ -348,12 +348,12 @@
                                 <div class="row bottom-buffer">
                                     <a href="./{{ post.url }}" class="newws">
                                         <div class="col-sm-4 hidden-xs annoncePadding right">
-                                            <img src="{{ post.img }}" height="150" alt="" class="book"/>
+                                            <img src="{{ post.image | prepend: '/assets/img/news/'  | append: '.png' }}" height="150" alt="" class="book"/>
                                         </div>
                                         <div class="col-xs-12 col-sm-8 cardNoPadding linkAnnonce" style="margin: 0px 0px">
 
                                             <h5 class="titleSmNews">{{ post.title }}</h5>
-                                            <div class="lightGrey dateNews">{{ post.date }}</div>
+                                            <div class="lightGrey dateNews">Publié le {{ post.date | date: '%e/%m/%Y' }}</div>
 
                                         </div>
                                     </a>

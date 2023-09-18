@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    {% include head.html %}  
+    <body>
+        {% include nav.html %}
+        {% include header.html %}  
+
+        <div class="container-fluid bandGrey">
+            <div class="container top-buffer bottom-buffer">
+                <div class="row bottom-buffer">
+                    <div class="col-md-12 bottom-buffer">
+                        <div class="row">
+                            <div class="col-md-3">
+                               <img class="pop" src="{{ page.image | prepend: '/assets/img/news/' | append: '.png' | absolute_url }}" alt="{{ page.image }}" width="270"/>
+                            </div>
+                            <div class="col-md-7">
+                                {{ content }}
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% include footer.html %}
+    <body>
+</html>

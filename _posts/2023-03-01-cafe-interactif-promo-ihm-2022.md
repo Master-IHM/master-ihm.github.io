@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: news
 use-site-title: true
+image: cafeinteractif
 ---
 
 # Café interactif promo IHM 2022

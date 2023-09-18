@@ -5,7 +5,7 @@ use-site-title: true
 
 # Les chefs d'œuvre dans le Master IHM
 
-<iframe width="100%" height="640px" src="http://www.youtube.com/embed/fbscVXioNAM" frameborder="0"> </iframe>
+<iframe width="100%" height="640px" src="https://www.youtube.com/embed/fbscVXioNAM" frameborder="0"> </iframe>
 
 
 La séquence pédagogique de "chef d'œuvre", nommée ainsi en référence au travail des compagnons du tour de France, est un projet réalisé de mi-septembre à mi-mars par un groupe de 3 à 5 étudiants, sur un sujet présentant un intérêt pour une entreprise ou un laboratoire. L'enjeu pédagogique est de dérouler une démarche de conception IHM complète en partant d'un problème donné (demande client) pour aboutir à la production et l'évaluation de solutions (prototypes logiciels de systèmes interactifs).

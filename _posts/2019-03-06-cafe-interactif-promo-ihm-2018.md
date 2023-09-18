@@ -2,6 +2,7 @@
 layout: news
 use-site-title: true
 image: cafeinteractif
+published: false
 ---
 
 # Café interactif promo IHM 2018

@@ -6,9 +6,12 @@ menuname: ALTERNANCE
 
 # Vous recherchez un Informaticien Expert UX/UI en alternance
 
-Le domaine de l'Interaction Homme-Machine couvre de nombreux aspects appartenant à des disciplines connexes telles que l'art, le design, l'informatique et les sciences humaines et sociales. Le cœur de l'Interaction Homme-Machine se trouve en informatique qui est le lieu d'intégration et de concrétisation des informations provenant des autres disciplines.
+*Le domaine de l'Interaction Homme-Machine couvre de nombreux aspects appartenant à des disciplines connexes 
+telles que l'**art**, le **design**, l'**informatique** et les **sciences humaines et sociales**. Le cœur de l'Interaction Homme-Machine se trouve en informatique qui est le lieu d'intégration et de concrétisation des informations provenant des autres disciplines.*
 
-Le Master Interaction Homme-Machine (IHM) forme des professionnels de haut niveau, spécialistes de la conception et du développement d'applications interactives, maîtrisant les techniques propres à l'informatique et celles qui sont issues du domaine des facteurs humains.
+Le Master Interaction Homme-Machine (IHM) forme des professionnels de haut niveau, 
+spécialistes de la conception et du développement d'**applications interactives**, maîtrisant les techniques 
+propres à l'**informatique** et celles qui sont issues du domaine des **facteurs humains**.
 
 # Connaissances et compétences des étudiants
 
@@ -33,7 +36,7 @@ Pourquoi choisir l'alternance
 * L'optimisation des ressources de financement
 * Une présence en entreprise équivalent à 27 semaines en M1 et 29 semaines en M2
 
-Il est possible de faire uniquement la deuxième année en alternance
+**Il est possible de faire _uniquement_ la deuxième année en alternance**
 
 # Philosophie de l'alternance en Master IHM
 
@@ -52,3 +55,20 @@ Enfin, en aucun cas la taille de l'entreprise n'est un critère à lui seul.
 
 Philippe Palanque Responsable UPS du Master IHM : palanque@irit.fr
 
+
+# L'alternance en M2
+
+## M2 2024-2025
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M2_IHM_2024_2025.pdf#zoom=FitH&toolbar=0&navpanes=0" | absolute_url }}" frameborder="0"></iframe>
+
+## M2 2023-2024
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M2_IHM_2023_2024.pdf#zoom=FitH&toolbar=0&navpanes=0" | absolute_url }}" frameborder="0"></iframe>
+
+# L'alternance en M1
+
+
+## M1 2024-2025
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M1_IHM_2024_2025.pdf#zoom=FitH&toolbar=0&navpanes=0" | absolute_url }}" frameborder="0"></iframe>
+
+## M1 2023-2024
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M1_IHM_2023_2024.pdf#zoom=FitH&toolbar=0&navpanes=0" | absolute_url }}" frameborder="0"></iframe>

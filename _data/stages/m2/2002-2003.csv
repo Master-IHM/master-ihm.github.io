@@ -1,0 +1,25 @@
+etudiants,sujet,commanditaire
+Mélanie ALBINET,"Conception et réalisation d'un numéroteur téléphonique à partir d'une surface tactile (ici, le Touchpad), pour des conducteurs automobile. Comparaison de cette solution avec la reconnaissance de caractères et le clavier numérique",SIEMENS
+Eddy BAZILE,Extension de l'outil de configuration GénéConf2 (Interface graphique et fonctionnalités). Spécification et réalisation d'une nouvelle interface présentant une vue fonctionnelle dans la Supervision Technique Informatique des aéroports,STNA
+Hélène BORTOLI,"Etude et réalisation d'une interface contrôleur pour l'application ""Controller Pilot Data Link Communication"" ",ALTICODE
+Hélène CABANIOLS,"Etude de faisabilité opérationnelle d'un Système Display Interactif sur l'A400M : analyse des besoins, maquettage et prototypage de solutions d'interfaces, définition de critères d'application",SEDITEC/AIRBUS France
+Emilie CHAP,Elements de conception d'un outil pour le traitement des incidents ATM,CENA /ENAC
+Benoît COSTES,Développement d'outils permettant aux praticiens de réaliser des bilans complets pour déterminer la nature des troubles dont souffre le patient et d'en évaluer la gravité (langage écrit, langage oral, motricité, capacité spatiale),"NEUROSYS, Toulouse"
+Sylvie COVINHES,Etude d'une interface graphique pour piloter le périphérique de visualisation collective puis étude d'extension aux interactions multimodales,"IRIT, Toulouse"
+Myriam DARTIGOLLES,Maquettage du projet Intranet TOPASE,"MIDIWAY, Toulouse"
+Sophie DE DENARO,"Intégration de Factory Cast HMI, outil de configuration des services automates Schneider, au sein d'un logiciel de création de pages graphiques, Pro Designer",SCHNEIDER AUTOMATION SA
+Vincent DELORD,"Etude, conception et développement d'un prototype permettant de gérer des fonctions télématiques en situations de conduite. Le prototype, réalisé sous Macromedia Director, utilise des composants VB et utilise un touchPad (surface sensible) et une molette associés à un écran",SIEMENS
+Thomas DUBOT,Conception et réalisation d'une position de contrôleur organique associée à la position radariste du projet Aster. Intégration du concept DuoCom de coordinations inter-secteurs silencieuses à un environnement de type VetiDigi,CENA
+Estelle GENADOT,Le stage vient se placer dans le cadre de la certification cockpit de l'A380. L'objectif du stage est de valider les IHM présentent dans le cockpit du point de vue des erreurs humaines,AIRBUS France
+Salim GOMRI,"Analyse des différents choix techniques possibles pour la réalisation d'interfaces opérateur, Propositions d'amélioration de l'interface de l'Airspace viewer, assorties d'améliorations fonctionnelles du produit existant Conception du nouvel outil de gestion des données off-line (définition des écrans de saisie, définition des contrôles syntaxiques et sémantiques, définition des traitements à réaliser sur les données, codage, tests)",EVOSYS
+Hélène HENRION,Travail sur le site média et portail de services sur Internet à destination de la population sourde de France,IRIS/Web sourd
+Alexandre LANOIX,"Mise en place d'une nouvelle fonctionnalité au sein de la CMI (Centralized Maintenance Interface). Cette fonctionnalité appelée ACMS (Aircraft Condition Monitoring System) a pour but, à partir de données avion (moteurs, APU), de faire de la maintenance prédicitive",THALES AVIONICS
+Emilie LUNO,Evaluer l'utilisabilité des interfaces homme-machine utilisées dans l'entreprise CARE Technologies et vendues aux clients,"CARE TECHNOLOGIES SA, Valencia, Spaña"
+Jean-Louis MAFFRE,"Conception et développement d'une application web ""TopTaVente"" permettant d'avoir une vision commune des placements (Internet,Fixe,Mobiles, ...) et du chiffre d'affaires généré",FRANCE TELECOM/OCISI
+Bruno MERLIN,"Conception et réalisation d'une application destinée à permettre, de manière multi-modale, la création, l'envoi et la réception de Messages Multimédia (MMS) en condition de mobilité, par l'intermédiaire d'un Pocket PC","IRIT, Toulouse"
+Magali PAGES,Conception et réalisation d'une interface graphique d'analyse de données,ASTRIUM
+Caroline SEGARRA,Evaluation de l'utilisabilité des interfaces homme-machine utilisées dans l'entreprise CARE Technologies et vendues aux clients,"CARE TECHNOLOGIES SA, Valencia, Spaña"
+Didier SICRE,Etude et réalisation de l'interface graphique de la solution AIP-GIS (Aeronautical Information Publication - Global Integrated Solution),CGX
+Julien VARENNES,Conception et développement d'outils intranet pour l'enseignement,ENAC
+Olivia WAURZYCZKA,Automatisation du processus de paiement des factures. Amélioration de l'application utilisée pour la gestion des paiements aux fournisseurs,PIERRE FABRE MEDICAMENTS
+François-Xavier PRACH,Etude d'une nouvelle conception du site Internet du Pôle dans une démarche centrée sur ses utilisateurs,POLE UNIVERSITAIRE EUROPEEN DE TOULOUSE 

@@ -13,7 +13,6 @@ menuname: FORMATION
 
 {% assign datas = datas | sort | reverse %}
 
-{% assign cos = site.data.cos  %}
 {% for part in datas  %}
 ## Promotion {{ part }}
   {% assign yeardata =  site.data.cos[part] %}
@@ -36,11 +35,4 @@ menuname: FORMATION
     </tbody>
 </table>
 
-
-
 {% endfor %}
-
-
-
-
-

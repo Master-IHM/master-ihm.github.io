@@ -6,11 +6,17 @@ menuname: FORMATION
 
 # Les Chefs-d'œuvre de M2
 
+{% assign datas = "" | split: "" %}
+{% for cat in site.data.cos %}
+  {% assign datas = datas | push: cat[0] %}
+{% endfor %}
 
-{% for part in site.data.cos reversed %}
+{% assign datas = datas | sort | reverse %}
 
-## Promotion {{ part[0] }}
-  {% assign yeardata =  part[1] %}
+{% assign cos = site.data.cos  %}
+{% for part in datas  %}
+## Promotion {{ part }}
+  {% assign yeardata =  site.data.cos[part] %}
 <table class="table table-striped">
     <thead>
         <tr>

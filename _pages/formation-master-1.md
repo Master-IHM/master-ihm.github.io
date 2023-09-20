@@ -123,7 +123,7 @@ Stages réalisés par les étudiants\\
 des promotions précédentes
 </p>
 <p style="text-align:center">
-[Consulter la liste](promotions-m1-stages.html){:class="btn btnPromo"}
+[Consulter la liste]({{ site.baseurl }}{% link _pages/promotions-m1-stages.md %}){:class="btn btnPromo"}
 </p>
 </div>
 <div class="col-sm-6">
@@ -132,7 +132,7 @@ Vous représenter une entreprise ?\\
 Vous souhaitez soumettre un sujet?
 </p>
 <p style="text-align:center">
-[Contacter le responsable](contact.html){:class="btn btnPromo"}
+[Contacter le responsable]({{ site.baseurl }}{% link _pages/contact.md %}){:class="btn btnPromo"}
 </p>
 </div>
 </div>
@@ -141,4 +141,4 @@ Vous souhaitez soumettre un sujet?
 
 Pour vous informer sur le déroulement de la formation lors de la deuxième année du master rendez-vous sur la page du master 2.
 
-[Master 2](formation-master-2.html){:class="btn btnPromo"}
+[Master 2]({{ site.baseurl }}{% link _pages/formation-master-2.md %}){:class="btn btnPromo"}

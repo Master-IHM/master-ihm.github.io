@@ -56,10 +56,10 @@ la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Av
 <div class="row">
 
 <div class="col-sm-6">
-[Déroulement du Master 1](formation-master-1.html){:class="btn btnPromo"}
+[Déroulement du Master 1]({{ site.baseurl }}{% link _pages/formation-master-1.md %}){:class="btn btnPromo"}
 </div>
 <div class="col-sm-6">
-[Déroulement du Master 2](formation-master-2.html){:class="btn btnPromo"}
+[Déroulement du Master 2]({{ site.baseurl }}{% link _pages/formation-master-2.md %}){:class="btn btnPromo"}
 </div>
 </div>
 .

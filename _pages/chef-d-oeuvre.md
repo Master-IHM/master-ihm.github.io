@@ -43,4 +43,4 @@ Pour tout renseignement, contactez [Sylvain Pauchet](mailto:sylvain.pauchet@enac
 
 # Liste de Chef d'œuvres
 
-Pour plus d'information veuillez consulter la [liste de chef d'œuvre en cours et passées](promotions-m2-co.html)
+Pour plus d'information veuillez consulter la [liste de chef d'œuvre en cours et passées]({{ site.baseurl }}{% link _pages/promotions-m2-co.md %})

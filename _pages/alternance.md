@@ -59,16 +59,16 @@ Philippe Palanque Responsable UPS du Master IHM : palanque@irit.fr
 # L'alternance en M2
 
 ## M2 2024-2025
-<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M2_IHM_2024_2025.pdf#zoom=FitH&toolbar=0&navpanes=0" | absolute_url }}" frameborder="0"></iframe>
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M2_IHM_2024_2025.pdf#toolbar=0&amp;view=Fit" | absolute_url }}" frameborder="0"></iframe>
 
 ## M2 2023-2024
-<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M2_IHM_2023_2024.pdf#zoom=FitH&toolbar=0&navpanes=0" | absolute_url }}" frameborder="0"></iframe>
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M2_IHM_2023_2024.pdf#toolbar=0&amp;view=Fit" | absolute_url }}" frameborder="0"></iframe>
 
 # L'alternance en M1
 
 
 ## M1 2024-2025
-<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M1_IHM_2024_2025.pdf#zoom=FitH&toolbar=0&navpanes=0" | absolute_url }}" frameborder="0"></iframe>
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M1_IHM_2024_2025.pdf#toolbar=0&amp;view=Fit" | absolute_url }}" frameborder="0"></iframe>
 
 ## M1 2023-2024
-<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M1_IHM_2023_2024.pdf#zoom=FitH&toolbar=0&navpanes=0" | absolute_url }}" frameborder="0"></iframe>
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M1_IHM_2023_2024.pdf#toolbar=0&amp;view=Fit" | absolute_url }}" frameborder="0"></iframe>

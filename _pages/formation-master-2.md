@@ -96,7 +96,7 @@ Prototypage et Design de Systèmes Interactifs
  
 # Chefs d'œuvre
 
-[Détails et Organisation des chefs d'œuvre](chef-d-oeuvre.html)
+[Détails et Organisation des chefs d'œuvre]({{ site.baseurl }}{% link _pages/chef-d-oeuvre.md %})
 
 Le Chef d'œuvre est un projet fil rouge qui permet aux étudiants de mettre en pratique les techniques et 
 méthodes vues pendant l'année. 
@@ -113,7 +113,7 @@ Chef d'œuvre des années passées\\
 des promotions précédentes
 </p>
 <p style="text-align:center">
-[Consulter la liste](promotions-m2-co.html){:class="btn btnPromo"}
+[Consulter la liste]({{ site.baseurl }}{% link _pages/promotions-m2-co.md %}){:class="btn btnPromo"}
 </p>
 </div>
 <div class="col-sm-6">
@@ -122,7 +122,7 @@ Vous représentez une entreprise ?\\
 Vous souhaitez soumettre un sujet ?
 </p>
 <p style="text-align:center">
-[Contacter le responsable](contact.html){:class="btn btnPromo"}
+[Contacter le responsable]({{ site.baseurl }}{% link _pages/contact.md %}){:class="btn btnPromo"}
 </p>
 </div>
 </div>
@@ -143,7 +143,7 @@ Stages réalisés par les étudiants
 des promotions précédentes
 </p>
 <p style="text-align:center">
-[Consulter la liste](promotions-m2-stages.html){:class="btn btnPromo"}
+[Consulter la liste]({{ site.baseurl }}{% link _pages/promotions-m2-stages.md %}){:class="btn btnPromo"}
 </p>
 </div>
 <div class="col-sm-6">
@@ -152,7 +152,7 @@ Vous représentez une entreprise ?\\
 Vous souhaitez soumettre un sujet ?
 </p>
 <p style="text-align:center">
-[Contacter le responsable](contact.html){:class="btn btnPromo"}
+[Contacter le responsable]({{ site.baseurl }}{% link _pages/contact.md %}){:class="btn btnPromo"}
 </p>
 </div>
 </div>
@@ -162,8 +162,5 @@ Vous souhaitez soumettre un sujet ?
 Pour vous informer sur le déroulement de la formation lors de la première année du master rendez-vous 
 sur la page du master 1.
 
-
-<p>
-<a class="btn btnPromo" href="formation-master-1.html">Master 1</a>
-</p>
+[Master 1]({{ site.baseurl }}{% link _pages/formation-master-1.md %}){:class="btn btnPromo"}
 

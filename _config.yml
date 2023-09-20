@@ -4,6 +4,10 @@ title: Master IHM
 
 markdown: kramdown
 
+domain: masterihm.fr
+
+url: https://masterihm.fr
+
 baseurl: ""
 
 kramdown:

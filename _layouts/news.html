@@ -14,7 +14,12 @@
                                <img class="pop" src="{{ page.image | prepend: '/assets/img/news/' | append: '.png' | absolute_url }}" alt="{{ page.image }}" width="270"/>
                             </div>
                             <div class="col-md-7">
-                                {{ content }}
+                             <h1>{{ page.titre }}</h1>
+			     <br/>
+                             <i>{{ page.description}}</i>
+                             <br/>
+                             <br/>  	   
+                             {{ page.content }}
                             </div>
 
                         </div>

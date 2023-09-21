@@ -12,7 +12,7 @@ menuname: FORMATION
 Retrouvez les anciens du Master IHM sur le compte linkedin du master IHM
 
 <a href="https://www.linkedin.com/groups/2043518">
-![group linedin](assets/img/In_2C_48px_R.png){:style="width: 57px; height: 48px;"}
+![groupe linkedin](assets/img/In_2C_48px_R.png){:style="width: 57px; height: 48px;"}
 </a>
 
 ## Le devenir des étudiants

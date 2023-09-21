@@ -11,49 +11,56 @@
         </div>
 
         <div class="logoplace">
-            <a href="/"><img src="{{ "assets/img/logo_master.svg" | absolute_url}}" alt="logo master" class="menu__logo" width="100"></a>
+            <a href="/"><img src="{{ 'assets/img/logo_master.svg' | absolute_url}}" alt="logo master" class="menu__logo" width="100"></a>
         </div>
         <div class="collapse navbar-collapse menu menu--prospero" id="bs-example-navbar-collapse-1">
             <div class="center_left navbar-left">
                 <ul class="nav navbar-nav menu__list">
-                    {% if page.menuname == "ACCUEIL" %}
+                    {% if page.menuname == "ACCUEIL" -%}
                     <li class="menu__item menu__item--current">
-                    {% else %} 
-                     <li class="menu__item "> 
-                    {% endif %}
-                        <a class="menu__link" href="{{ "index.html" | absolute_url }}">ACCUEIL</a>
+                    {%- else -%} 
+                    <li class="menu__item "> 
+                    {%- endif %}
+                        <a class="menu__link" href="{{ site.base }}{% link _pages/index.md %}">ACCUEIL</a>
                     </li>
-                    {% if page.menuname == "FORMATION" %}
+                    {% if page.menuname == "FORMATION" -%}
                     <li class="menu__item menu__item--current">
-                    {% else %} 
-                     <li class="menu__item "> 
-                    {% endif %}
-                        <a class="menu__link" href="{{ "formation.html" | absolute_url }}">FORMATION</a>
+                    {%- else -%} 
+                    <li class="menu__item "> 
+                    {%- endif %}
+                        <a class="menu__link" href="{{ site.base }}{% link _pages/formation.md %}">FORMATION</a>
                     </li>
-                    {% if page.menuname == "ALTERNANCE" %}
+                    {% if page.menuname == "ALTERNANCE" -%}
                     <li class="menu__item menu__item--current">
-                    {% else %} 
+                    {%- else -%} 
                      <li class="menu__item "> 
-                    {% endif %}
-                        <a class="menu__link" href="{{ "alternance.html" | absolute_url }}">ALTERNANCE</a>
+                    {%- endif %}
+                        <a class="menu__link" href="{{ site.base }}{% link _pages/alternance.md %}">ALTERNANCE</a>
                     </li>
                 </ul>
             </div>
             <div class="center_right navbar-right">
                 <ul class="nav navbar-nav menu__list">
-                    {% if page.menuname == "IHM" %}
+                    {% if page.menuname == "IHM" -%}
                     <li class="menu__item menu__item--current">
-                    {% else %} 
-                     <li class="menu__item "> 
-                    {% endif %}
-                        <a class="menu__link" href="{{ "le-monde-de-l-ihm.html" | absolute_url }}">L'IHM</a>
+                    {%- else -%} 
+                    <li class="menu__item "> 
+                    {%- endif %}
+                        <a class="menu__link" href="{{ site.base }}{% link _pages/le-monde-de-l-ihm.md %}">L'IHM</a>
                     </li>
-                    {% if page.menuname == "EDT" %}
+                    {% if page.menuname == "EDT" -%}
                     <li class="menu__item menu__item--current">
-                    {% else %} 
-                     <li class="menu__item "> 
-                    {% endif %}
-                        <a class="menu__link" href="{{ "emploi-du-temps.html" | absolute_url }}">EMPLOI DU TEMPS</a>
+                    {%- else -%} 
+                    <li class="menu__item "> 
+                    {%- endif %}
+                        <a class="menu__link" href="{{ site.base }}{% link _pages/emploi-du-temps.md %}">EMPLOI DU TEMPS</a>
+                    </li>
+                    {% if page.menuname == "CONTACT" -%}
+                    <li class="menu__item menu__item--current">
+                    {%- else -%} 
+                    <li class="menu__item "> 
+                    {%- endif %}
+                        <a class="menu__link" href="{{ site.base }}{% link _pages/contact.md %}">CONTACT</a>
                     </li>
                 </ul>
             </div>

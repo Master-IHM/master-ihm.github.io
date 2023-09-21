@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: FORMATION
+redirect_from:
+  - /promomtions-m1/stages
 ---
 
 # Les Stages de M1

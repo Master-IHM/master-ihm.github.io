@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: IHM
+redirect_from:
+  - /page/soutenances
 ---
 
 # Soutenances et démonstrations des chefs d'œuvre du Master IHM 2023

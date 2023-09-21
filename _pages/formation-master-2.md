@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: FORMATION
+redirect_from:
+  - /page/formation-master-2
 ---
 
 # Inscription Master 2

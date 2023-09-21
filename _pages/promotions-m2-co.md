@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: FORMATION
+redirect_from:
+  - /promotions-m2/co
 ---
 
 # Les Chefs-d'œuvre de M2

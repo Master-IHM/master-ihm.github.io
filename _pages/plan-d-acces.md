@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: ACCUEIL
+redirect_from:
+  - /page/plan-d-acces
 ---
 
 # Accès ENAC

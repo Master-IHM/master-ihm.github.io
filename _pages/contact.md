@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: CONTACT
+redirect_from:
+  - /page/contact
 ---
 
 

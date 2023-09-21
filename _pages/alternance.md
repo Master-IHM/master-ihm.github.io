@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: ALTERNANCE
+redirect_from:
+  - /page/alternance
 ---
 
 # Vous recherchez un Informaticien Expert UX/UI en alternance

@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: FORMATION
+redirect_from:
+  - /page/formation
 ---
 
 # Le Master en Bref

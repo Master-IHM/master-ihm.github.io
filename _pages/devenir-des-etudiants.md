@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: FORMATION
+redirect_from:
+  - /page/devenir-des-etudiants
 ---
 
 # Que sont-ils devenus

@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: EDT
+redirect_from:
+  - /page/emploi-du-temps
 ---
 
 # Emploi du temps du Master 1

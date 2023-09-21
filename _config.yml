@@ -18,15 +18,5 @@ collections:
     output: true
     permalink: /:path
 
-
-nav:
-  - title: ACCUEIL
-    url: deployment.html
-  - title: FORMATION
-    url: help.html
-  - title: ALTERNANCE
-    url: help.html
-  - title: L'IHM
-    url: help.html
-  - title: EMPLOI DU TEMPS
-    url: help.html
+plugins:
+  - jekyll-redirect-from

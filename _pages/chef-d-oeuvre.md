@@ -1,6 +1,8 @@
 ---
 layout: page
 use-site-title: true
+redirect_from:
+  - /page/chef-d-œuvre
 ---
 
 # Les chefs d'œuvre dans le Master IHM

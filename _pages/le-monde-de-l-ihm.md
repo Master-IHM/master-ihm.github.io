@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 menuname: IHM
+redirect_from:
+  - /page/le-monde-de-l-ihm
 ---
 
 >L'Interaction Homme-Machine est la discipline qui se consacre à la conception,

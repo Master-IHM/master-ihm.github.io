@@ -12,7 +12,7 @@ redirect_from:
 
 # Emploi du temps du Master 2
 
-Accessible via votre compte ENAC
+[Système Aurion ENAC](https://aurion-prod.enac.fr/)
 
 
 

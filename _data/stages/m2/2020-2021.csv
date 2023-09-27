@@ -1,26 +1,26 @@
-etudiants,sujet,commanditaire
-Sullivan Agesilas, Participation au développement d'une maquette de poste de pilotage de dirigeable et à l'évaluation des facteurs humains,Flying Whales
-Lucia Alonso,  Réalisation  de  Maquettes  sur  des applications  web  et mobiles, Infotel
-Dorian Azema, Réalisation d'un site web et de sa documentation, Altran Technologies
-Timothée Barde, Définition d'interfaces de vol pour comprendre les enjeux environnementaux d'un vol, Thales AVS
-Adèle Bornet, Conception et développement IHM web,CS GROUP
-Xavier Carrau, Développement  d'une  IHM  d'administration environnement Cloud,Atos
-Cyrielle Carrieu, Modèle 3D sur Android Automotive,Renault Software Labs
-Claire Chatenet,Création d'un framework de visualisation graphique de données,Thales Services Numériques
-Sofian Chichir,Design System Lagoon et outil de suivi de projet,Infotel
-Flavien Clastres-Babou,Développementde la plate-forme Web SoKeyTo pour la conception d'interface pour la communication et la domotique,IRIT
-Emeric Delacroix,Développement Web autour de la Donnée à Caractère Personnel (DCP),SII
-**Tyrell Divers**,Conception et développement d'interfaces pour des évolution fonctionnels d'une application de saisie de formulaires,Capgemini
-Calvin Dogus,Conception d'un simulateur de vol en formationpour les expériences sur l'orientation de l'attention,ISAE-SUPAERO
-Lorelei Galan,Etude et rédaction d'une application de gestion du vol PNC,Air Tahiti Nui
-Alexis Gressier,Développement d'améliorations IHM,Capgemini
-Baptiste Guibert,Prototype d'IHM cockpit adaptive,SII
-Nathan Lebert,Réalisation d'une IHM en QT QML d'un système de surveillance,Thales BDX
-Théo Lespilette,Visualisation d'informations temporelles,Berger-Levrault
-Benjamin Mathey,Simulation interactive pour la mobilité urbaine,IRIT
-Denis Ollivier,Ingénieur-e étude et développement UX UI designer,KOSMOS
-**Nathan Oualet**,IHM pour la navigation collaborative d'aéronefs,Thales AVS
-Maëlan Poyer,Etude et developpement d'outils en Réalité Etendue (XR) pour bagages X,ENAC
-Marianne Sargent,Technique d'interaction avec surface interactive et des dispositifs mobiles pour la gestion de crise,CEA Tech Occitanie
-Morgane Tuffery,Réalisation  de  Maquettes  sur  des  applications  web  et mobiles,Infotel
-**Washbrook Thomas**,Visualisation de workflows,Berger-Levrault
+etudiants,sujet,commanditaire,alternant
+Sullivan Agesilas, Participation au développement d'une maquette de poste de pilotage de dirigeable et à l'évaluation des facteurs humains,Flying Whales,
+Lucia Alonso,  Réalisation  de  Maquettes  sur  des applications  web  et mobiles, Infotel,
+Dorian Azema, Réalisation d'un site web et de sa documentation, Altran Technologies,
+Timothée Barde, Définition d'interfaces de vol pour comprendre les enjeux environnementaux d'un vol, Thales AVS,
+Adèle Bornet, Conception et développement IHM web,CS GROUP,
+Xavier Carrau, Développement  d'une  IHM  d'administration environnement Cloud,Atos,
+Cyrielle Carrieu, Modèle 3D sur Android Automotive,Renault Software Labs,
+Claire Chatenet,Création d'un framework de visualisation graphique de données,Thales Services Numériques,
+Sofian Chichir,Design System Lagoon et outil de suivi de projet,Infotel,
+Flavien Clastres-Babou,Développementde la plate-forme Web SoKeyTo pour la conception d'interface pour la communication et la domotique,IRIT,
+Emeric Delacroix,Développement Web autour de la Donnée à Caractère Personnel (DCP),SII,
+Tyrell Divers,Conception et développement d'interfaces pour des évolution fonctionnels d'une application de saisie de formulaires,Capgemini,yes
+Calvin Dogus,Conception d'un simulateur de vol en formationpour les expériences sur l'orientation de l'attention,ISAE-SUPAERO,
+Lorelei Galan,Etude et rédaction d'une application de gestion du vol PNC,Air Tahiti Nui,
+Alexis Gressier,Développement d'améliorations IHM,Capgemini,
+Baptiste Guibert,Prototype d'IHM cockpit adaptive,SII,
+Nathan Lebert,Réalisation d'une IHM en QT QML d'un système de surveillance,Thales BDX,
+Théo Lespilette,Visualisation d'informations temporelles,Berger-Levrault,
+Benjamin Mathey,Simulation interactive pour la mobilité urbaine,IRIT,
+Denis Ollivier,Ingénieur-e étude et développement UX UI designer,KOSMOS,
+Nathan Oualet,IHM pour la navigation collaborative d'aéronefs,Thales AVS,yes
+Maëlan Poyer,Etude et developpement d'outils en Réalité Etendue (XR) pour bagages X,ENAC,
+Marianne Sargent,Technique d'interaction avec surface interactive et des dispositifs mobiles pour la gestion de crise,CEA Tech Occitanie,
+Morgane Tuffery,Réalisation  de  Maquettes  sur  des  applications  web  et mobiles,Infotel,
+Washbrook Thomas,Visualisation de workflows,Berger-Levrault,y

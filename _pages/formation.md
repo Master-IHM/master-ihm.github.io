@@ -24,7 +24,6 @@ la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Av
 
 
 <div class="row">
-
 <div class="col-sm-6">
 
 ## Master 1
@@ -36,12 +35,11 @@ la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Av
 * 1 Projet et 1 Travail d'Initiation à la Recherche
 * 1 Stage obligatoire
 
-
-
 </div>
-
 <div class="col-sm-6">
+  
 ## Master 2
+
 * Intégration totale Cours, TD et TP
 * Travail 100% du temps sur machine
 * Évaluation de plusieurs cours via le travail effectué lors du Chef d'œuvre
@@ -50,10 +48,7 @@ la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Av
 * Chef d'œuvre (projet fil rouge)
 * Stage de 4 à  6 mois
 
-
-
 </div>
-
 </div>
 <div class="row">
 
@@ -64,7 +59,7 @@ la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Av
 [Déroulement du Master 2]({{ site.baseurl }}{% link _pages/formation-master-2.md %}){:class="btn btnPromo"}
 </div>
 </div>
-.
+
 * Conseils de pilotage de la formation 
 * Conseil pédagogique (responsables d'UE) 
 * Conseil de perfectionnement (relation avec les industriels) –Evaluation systématique des enseignements (en M2)

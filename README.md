@@ -3,6 +3,12 @@ Site Web du Master IHM
 
 ## Pour modifier les pages du site avec Git
 
+* Installation jekyll
+    ```bash
+    $ sudo apt-get install ruby-full build-essential zlib1g-dev
+    $ gem install jekyll bundler
+    $ gem install jekyll-redirect-from
+    ```
 * Faire dans un terminal :
 
     ```bash

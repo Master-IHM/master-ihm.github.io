@@ -1,24 +1,24 @@
-etudiants,sujet,commanditaire
-Maurice K. A. ADJANOR,Conception et développement d'un module de supervision fonctionnelle pour GAIA Virtual Sky,STERIA
-Fabien ANDRE,Programmes interactifs jetables,"ENAC / INTUILAB, Toulouse"
-Youssef AZZOUZI,Représentation 3D de plan de vol,"Rockwell Collins France, Blagnac"
-Mathieu BEUCHAT / (contrat PRO),IHM Innovantes pour Outils d'Automatisation d'Essais Système,"SOGETI High Tech, Toulouse"
-Thierry CALESTROUPAT,Interface graphique de paramétrage, Atos Origin
-Guillaume CLERC,Conception et mise en œuvre d'un démonstrateur Flex,"SQLI, Blagnac"
-Danjou FOUCOULD,Outil de validation du processus commercial,"UBI (Uhl Bonaventure Informatique), Reichstett"
-Sylvain DE BUYSER,Développement d'une interface graphique pour un logiciel d'évaluation de performances,"ONERA, Toulouse"
-Nicolas DELMAS,Optimisation des interfaces de maintenance du Programme A380,"AEROCONSEIL AIRCRAFT ENGINEERING, Toulouse"
-Véronique DURET,Analyse du besoin utilisateur dans le cadre du portage de l'IHM EOLI sous plateforme RCP suivi du développement d'un prototype,"VEGA Technologies SAS, Ramonville"
-Aurélien FRENNA,Outils du Centre de Contrôle des Opérations,"Air France, Toulouse"
-Florent HIRSCH,Prototype d'interface web liée à la création graphique et design en ligne,"AVATAM, Toulouse"
-Raphaél HOARAU,Développement d'une Interface Utilisateur pour un Outil de Simulation Dynamique de Trafic,"SODIT, Marseille"
-Nathalie KAING,New forms of touch remote controls and interface for iTV,"ruwido,Salzburg, Autriche"
-Thomas MANIEZ,Interface de gestion de scenarios,"ONERA, Toulouse"
-Philémon MERLET,Nouvelles technologies pour le contrôle/commande d'instruments médicaux,"CNES, Toulouse"
-Jean NETRY-VALÈRE,Electrical Power Centre Framework : Data Quality tool,"SOPRA Group, Toulouse"
-Thibaut POUX,Conception de pages Multi-System Display,"EADS Airbus France, Toulouse"
-Mohamed Amine RAFIK,Mise en place d'un outil intranet de suivi de la gestion de configuration,"CAPGEMINI Sud, Toulouse"
-Asier SUAREZ,Analyse d'utilisabilité de la Plateforme E-Learning Pyramide et analyse des besoins pour une future version,"Conseil Régional Midi-Pyrénées, Toulouse"
-Dong-Bach VO,Développement d'une application web riche pour pour la gestion d'informations personnelles,"IRIT, Toulouse"
-Louis WATRIN,Conception d'une interface d'un logiciel d'aide à l'orthographe,"SYNAPSE DEVELOPPEMENT, Toulouse"
-Lauranne WEILL,Réalisation d'un Navigateur/Visualisateur de données métier dans le monde du vêtement,"LECTRA, Colmar"
+etudiants,sujet,commanditaire,type
+Maurice K. A. ADJANOR,Conception et développement d'un module de supervision fonctionnelle pour GAIA Virtual Sky,STERIA,
+Fabien ANDRE,Programmes interactifs jetables,"ENAC / INTUILAB, Toulouse",
+Youssef AZZOUZI,Représentation 3D de plan de vol,"Rockwell Collins France, Blagnac",
+Mathieu BEUCHAT,IHM Innovantes pour Outils d'Automatisation d'Essais Système,"SOGETI High Tech, Toulouse",PRO
+Thierry CALESTROUPAT,Interface graphique de paramétrage, Atos Origin,
+Guillaume CLERC,Conception et mise en œuvre d'un démonstrateur Flex,"SQLI, Blagnac",
+Danjou FOUCOULD,Outil de validation du processus commercial,"UBI (Uhl Bonaventure Informatique), Reichstett",
+Sylvain DE BUYSER,Développement d'une interface graphique pour un logiciel d'évaluation de performances,"ONERA, Toulouse",
+Nicolas DELMAS,Optimisation des interfaces de maintenance du Programme A380,"AEROCONSEIL AIRCRAFT ENGINEERING, Toulouse",
+Véronique DURET,Analyse du besoin utilisateur dans le cadre du portage de l'IHM EOLI sous plateforme RCP suivi du développement d'un prototype,"VEGA Technologies SAS, Ramonville",
+Aurélien FRENNA,Outils du Centre de Contrôle des Opérations,"Air France, Toulouse",
+Florent HIRSCH,Prototype d'interface web liée à la création graphique et design en ligne,"AVATAM, Toulouse",
+Raphaél HOARAU,Développement d'une Interface Utilisateur pour un Outil de Simulation Dynamique de Trafic,"SODIT, Marseille",
+Nathalie KAING,New forms of touch remote controls and interface for iTV,"ruwido,Salzburg, Autriche",
+Thomas MANIEZ,Interface de gestion de scenarios,"ONERA, Toulouse",
+Philémon MERLET,Nouvelles technologies pour le contrôle/commande d'instruments médicaux,"CNES, Toulouse",
+Jean NETRY-VALÈRE,Electrical Power Centre Framework : Data Quality tool,"SOPRA Group, Toulouse",
+Thibaut POUX,Conception de pages Multi-System Display,"EADS Airbus France, Toulouse",
+Mohamed Amine RAFIK,Mise en place d'un outil intranet de suivi de la gestion de configuration,"CAPGEMINI Sud, Toulouse",
+Asier SUAREZ,Analyse d'utilisabilité de la Plateforme E-Learning Pyramide et analyse des besoins pour une future version,"Conseil Régional Midi-Pyrénées, Toulouse",
+Dong-Bach VO,Développement d'une application web riche pour pour la gestion d'informations personnelles,"IRIT, Toulouse",
+Louis WATRIN,Conception d'une interface d'un logiciel d'aide à l'orthographe,"SYNAPSE DEVELOPPEMENT, Toulouse",
+Lauranne WEILL,Réalisation d'un Navigateur/Visualisateur de données métier dans le monde du vêtement,"LECTRA, Colmar",

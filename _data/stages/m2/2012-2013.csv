@@ -1,22 +1,22 @@
-etudiants,sujet,commanditaire
-Nicolas BARCACCI,Prototype sécurisé d'interface.,"SNCF, Toulouse"
-Hajar BELMEKKI,Plas'O'Soins (DSL),"IRIT, Toulouse"
-Jérôme BLARD,Utilisation de nouveaux moyens mobiles d'interaction dans les centres utilisateurs opérationnels.,"ASTRIUM, Toulouse"
-Mohamed BOUSSAID,Interface Humain-Système pour Micro-Drone Quadrotor.,"Rockwell-Collins, Toulouse"
-Manal CHAKIR,Développement de l'intranet TwinMotion.,"Ka-Ra, Strasbourg"
-Leishuang CHEN,Développement d'un système de gestion du personnel.,"ICBC, Paris"
-Sébastien DIJOUX,Développement WEB : outil de gestion des activités.,"Sogeti, Toulouse"
-Marie FRANCOIS / (contrat PRO),Eye Tracking sur poste de pilotage.,"Sogeti, Toulouse"
-Pierre-Edouard GALTIER,"Recueil du besoin, Conception et Développement d'une application Android de visualisation de paramètres capturés en temps réel à partir du Flight Test Recorder.","Sogeti, Toulouse"
-Hamza GHOUIL,Analyse et conception pour le projet DevoMSR: module pointage et suivi d'activité.,"DEVOTEAM, Toulouse"
-Christelle LACAN,Développement d'application sur plateforme J2EE / GWT dans le domaine des ressources humaines.,"Sopra Group, Toulouse"
-Ronan LE MORVAN / (contrat PRO),"Analyse, définition et évaluation du logbook electronique Avion.","Thales, Toulouse"
-Antoine LHUILLIER,Internship - Cockpit Operations - Voice Communication HMI.,"Airbus, Toulouse"
-Ramzi MOSRATI,Analyse et conception pour le projet DevoMSR: module Catalogue de service.,"DEVOTEAM, Toulouse"
-Ya QUIN,Réalisation d'une navigation globale et enrichie dans les modèles de données.,"IT-CE (Informatique & Technologies de Caisse d'Epargne)"
-Camille RAYMOND,Conception et Développement d'une application Android de déroulement de procédures.,"Sogeti, Toulouse"
-Oussama SABRA,Bundling Editor.,"ENAC, Toulouse"
-Thomas SANS D'AGUT,L'Interaction Homme - Machine dans les Serious Games.,"IRIT, Toulouse"
-Olivier STEPIEN,Recherche et développement autour d'interfaces homme-machine de nouvelle génération.,"Anamnesia, Strasbourg"
-Sébastien VERDIER,Flight Inspection Suite.,"CGX AERO, Castres"
-Katy TCHA-TOKEY,Application smartphone en Flash.,"Eurotrix, Toulouse"
+etudiants,sujet,commanditaire,type
+Nicolas BARCACCI,Prototype sécurisé d'interface.,"SNCF, Toulouse",
+Hajar BELMEKKI,Plas'O'Soins (DSL),"IRIT, Toulouse",
+Jérôme BLARD,Utilisation de nouveaux moyens mobiles d'interaction dans les centres utilisateurs opérationnels.,"ASTRIUM, Toulouse",
+Mohamed BOUSSAID,Interface Humain-Système pour Micro-Drone Quadrotor.,"Rockwell-Collins, Toulouse",
+Manal CHAKIR,Développement de l'intranet TwinMotion.,"Ka-Ra, Strasbourg",
+Leishuang CHEN,Développement d'un système de gestion du personnel.,"ICBC, Paris",
+Sébastien DIJOUX,Développement WEB : outil de gestion des activités.,"Sogeti, Toulouse",
+Marie FRANCOIS,Eye Tracking sur poste de pilotage.,"Sogeti, Toulouse",PRO
+Pierre-Edouard GALTIER,"Recueil du besoin, Conception et Développement d'une application Android de visualisation de paramètres capturés en temps réel à partir du Flight Test Recorder.","Sogeti, Toulouse",
+Hamza GHOUIL,Analyse et conception pour le projet DevoMSR: module pointage et suivi d'activité.,"DEVOTEAM, Toulouse",
+Christelle LACAN,Développement d'application sur plateforme J2EE / GWT dans le domaine des ressources humaines.,"Sopra Group, Toulouse",
+Ronan LE MORVAN,"Analyse, définition et évaluation du logbook electronique Avion.","Thales, Toulouse",PRO
+Antoine LHUILLIER,Internship - Cockpit Operations - Voice Communication HMI.,"Airbus, Toulouse",
+Ramzi MOSRATI,Analyse et conception pour le projet DevoMSR: module Catalogue de service.,"DEVOTEAM, Toulouse",
+Ya QUIN,Réalisation d'une navigation globale et enrichie dans les modèles de données.,"IT-CE (Informatique & Technologies de Caisse d'Epargne)",
+Camille RAYMOND,Conception et Développement d'une application Android de déroulement de procédures.,"Sogeti, Toulouse",
+Oussama SABRA,Bundling Editor.,"ENAC, Toulouse",
+Thomas SANS D'AGUT,L'Interaction Homme - Machine dans les Serious Games.,"IRIT, Toulouse",
+Olivier STEPIEN,Recherche et développement autour d'interfaces homme-machine de nouvelle génération.,"Anamnesia, Strasbourg",
+Sébastien VERDIER,Flight Inspection Suite.,"CGX AERO, Castres",
+Katy TCHA-TOKEY,Application smartphone en Flash.,"Eurotrix, Toulouse",

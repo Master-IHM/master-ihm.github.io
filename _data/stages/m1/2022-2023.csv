@@ -1,15 +1,15 @@
 etudiants,sujet,commanditaire
-Amiche Fadma,Développement d'un outil de médiation pour l'interaction humain robot,LAAS
-Benbouabdellah Chaima, Refonte du panneau d'édition du logiciel FBxDesign Logiciel de mise en matière de lunettes 3D,FITTINGBOX
-Collomb Sullivan,Développement d'une interface dédiée à l'évaluation du bien-être animal en zoo,ENVT
-Cros Arnaud,Création d'une application web pour la gestion et l'attribution des sujets de stage pour le département Biologie & Géosciences,FSI-UT3
-Delmas Théo,Amélioration de l'interface ASTEROID pour gérer les données de moniteurs,CNES
-El Sayed Abou El Joud Adam,Amélioration (full stack) du site web ResaToul,SCUIO-IP-UT3
-Guitard Alexandre,Développement et conception IHM : Poursuite du travail de recherche Tactilient et conception d'une application pour le design de feedbacks vibrotactiles,ENAC
-Kherarfa Malik,Développement d'une interface de création automatisée de machines virtuelles,Thalès
-Lahyan Youssef,Développement frontend d'une application web pour la gestion et l'optimisation des environnements de travail,insiteo
-Mason-Bacquié Galilée,Conceptions d'interfaces pour patients et thérapeutes dans le cadre de la rééducation post AVC,IRIT
-Merzouk Kenza,Développement Angular d'une interface utilisateur pour les gestionnaires de comptes,Urssaf
-Mistoihi Rayan,Conception et développement d'une fonctionnalité de surlignage dans un logiciel de Gestion Electronique de Document,Infotel
-Slimani Khaoula,Maintenance et évolutions d'une application de gestion RH,Sopra Steria
-Tortel Emilie,Interaction avec une maquette phygitale: Techniques de pointage sur table tactile,IRIT
+Fadma AMICHE,Développement d'un outil de médiation pour l'interaction humain robot,LAAS
+Chaim BENBOUABDELLAH, Refonte du panneau d'édition du logiciel FBxDesign Logiciel de mise en matière de lunettes 3D,FITTINGBOX
+Sullivan COLLOMB,Développement d'une interface dédiée à l'évaluation du bien-être animal en zoo,ENVT
+Arnaud CROS,Création d'une application web pour la gestion et l'attribution des sujets de stage pour le département Biologie & Géosciences,FSI-UT3
+Théo DELMAS,Amélioration de l'interface ASTEROID pour gérer les données de moniteurs,CNES
+El Joud Adam EL SAYED ABOU,Amélioration (full stack) du site web ResaToul,SCUIO-IP-UT3
+Alexandre GUITARD,Développement et conception IHM : Poursuite du travail de recherche Tactilient et conception d'une application pour le design de feedbacks vibrotactiles,ENAC
+Malik KHERARFA,Développement d'une interface de création automatisée de machines virtuelles,Thalès
+Youssef LAHYAN,Développement frontend d'une application web pour la gestion et l'optimisation des environnements de travail,insiteo
+Galilée MASON-BACQUIE,Conceptions d'interfaces pour patients et thérapeutes dans le cadre de la rééducation post AVC,IRIT
+Kenza MERZOUK,Développement Angular d'une interface utilisateur pour les gestionnaires de comptes,Urssaf
+Rayan MISTOIHI,Conception et développement d'une fonctionnalité de surlignage dans un logiciel de Gestion Electronique de Document,Infotel
+Khaoula SLIMANI,Maintenance et évolutions d'une application de gestion RH,Sopra Steria
+Emilie TORTEL,Interaction avec une maquette phygitale: Techniques de pointage sur table tactile,IRIT

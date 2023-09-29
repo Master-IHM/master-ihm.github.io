@@ -30,7 +30,10 @@ redirect_from:
     <tbody>
     {% for subpart in yeardata %}
         <tr>
-        <td>{{ subpart.etudiants }}</td>
+        <td>{{ subpart.etudiants }}
+        {% if subpart.type == "ALT" %}<br><b>(Alternance)</b>{% endif %}
+        {% if subpart.type == "PRO" %}<br><b>(Contrat PRO)</b>{% endif %}        
+        </td>
         <td>{{ subpart.sujet }}</td>
         <td>{{ subpart.commanditaire | replace: ";;" , "," }}</td>
         </tr>

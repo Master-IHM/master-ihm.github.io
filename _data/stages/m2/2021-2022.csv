@@ -1,23 +1,31 @@
-etudiants,sujet,commanditaire
-Maxence BIDEGAIMBERRY,Orchestration OLTACC ,Thales services
-Rémi BLANC,Développement d'amélioration IHM,Capgemini
-Marc BLANCHARD,Modernization of the interface for the Remote Digital Tower,FREQUENTIS AG
-Théo BOUSQUET,Du graphe 3D au pdf,Zébrys (R++)
-Alexandra BOUVOT,Electric/Hybrid Propulsion System design,AURA AERO
-Grégory CADERBY,Protoypage IHM cockpit,SII
-Pierre CAILLETON,Provide a proof a concept in the scope of eATM portal retrofit project,EUROCONTROL
-Damien CHAPEAU,"Développement d'outils d'aide à la gestion de l'application KEYRING, une plateforme de clé numérique","Keywesmartlock co., Ltd."
-Kéwin CHU,UX design,Koncept
-Romane DUBUS,Co-adaptive instruments for Smart Cockpits,INRIA / LRI
-Laura DUPHIL,développement de l'IHM d'un outil de simulation dans le contexte du Transport,Sopra Steria
-Ugo EB-LEVADOUX,Smart Tele-Health for Elderly Patients,George Washington University
-Baptiste ELASMAR,Refonte de l'assistant de création de projets de l'outil Squore,Vector
-Maxime FALC,Editeur de graphe 3D,Zébrys (R++)
-Nicolas FERRIE,Conception Ihm & Développement Front-End,Berger Levrault
-Liam GUIGO,Création d'un outil d'analyse de Control et Data Flow d'une IHM de contrôle aérien,Thalès
-Cécile MARCON,"Identification, classification et expression dans le langage smala de propriétés interactives",ENAC
-Quentin RAHARD,Conception UX/UI ,Thales AVS France SAS
-Ilyes REGUIG,Gestion du multifenêtrage en contexte multi-dispositifs,CEA Tech
-Jaoudat SABALBAL,"Création d'une plateforme destinée à la création de site  ""communautaire"" ",Ogoxi-Ogoxe
-Caroline SENAUX,Conception et développement d'un prototype de manuel digital,Airbus Defence & Space
-Thomas WALOSIK,Etude et prototypage d'IHM pour la surveillance multi-satellitaire,CS Group
+etudiants,sujet,commanditaire,type
+Cyril ANACLET,Developpeur web,FDTI Consulting,ALT
+Maxence BIDEGAIMBERRY,Orchestration OLTACC,Thales services,
+Rémi BLANC,Développement d'amélioration IHM,Capgemini,
+Marc BLANCHARD,Modernization of the interface for the Remote Digital Tower,FREQUENTIS AG,
+Théo BOUSQUET,Du graphe 3D au pdf,Zébrys (R++),
+Alexandra BOUVOT,Electric/Hybrid Propulsion System design,AURA AERO,
+Yoan BUSCA,Escape Game virtuel dans les salles de simulation SimuVet,ENVT,ALT
+Grégory CADERBY,Protoypage IHM cockpit,SII,
+Pierre CAILLETON,Provide a proof a concept in the scope of eATM portal retrofit project,EUROCONTROL,
+Damien CHAPEAU,"Développement d'outils d'aide à la gestion de l'application KEYRING, une plateforme de clé numérique","Keywesmartlock co., Ltd.",
+Kéwin CHU,UX design,Koncept,
+Ana-Maria CERBULEAN,UX/UI Design : Conception et développement front-end des applications web,FTDI Consulting,ALT
+Romane DUBUS,Co-adaptive instruments for Smart Cockpits,INRIA / LRI,
+Laura DUPHIL,développement de l'IHM d'un outil de simulation dans le contexte du Transport,Sopra Steria,
+Laurine DUFRESNE,Développement d'une fonctionnalité User Feedback,Thales AVS,ALT
+Ugo EB-LEVADOUX,Smart Tele-Health for Elderly Patients,George Washington University,
+Baptiste ELASMAR,Refonte de l'assistant de création de projets de l'outil Squore,Vector,
+Maxime FALC,Editeur de graphe 3D,Zébrys (R++),
+Nicolas FERRIE,Conception Ihm & Développement Front-End,Berger Levrault,
+Corentin GOBBO,CARINA - IHM de consultation de base de donnnées de coût des projets spatiaux,CNES,ALT
+Liam GUIGO,Création d'un outil d'analyse de Control et Data Flow d'une IHM de contrôle aérien,Thalès,
+Julien LARCADE,Escape Game virtuel dans les salles de simulation SimuVet,ENVT,ALT
+Cécile MARCON,"Identification, classification et expression dans le langage smala de propriétés interactives",ENAC,
+Minh Thanh NGUYEN-PAGES,Elaboration d'un design system et conception du design des sites de CLS,CLS,ALT
+Quentin RAHARD,Conception UX/UI ,Thales AVS France SAS,
+Ilyes REGUIG,Gestion du multifenêtrage en contexte multi-dispositifs,CEA Tech,
+David ROYER,Développement fullstack,OALLEY,ALT
+Jaoudat SABALBAL,"Création d'une plateforme destinée à la création de site  ""communautaire"" ",Ogoxi-Ogoxe,
+Caroline SENAUX,Conception et développement d'un prototype de manuel digital,Airbus Defence & Space,
+Thomas WALOSIK,Etude et prototypage d'IHM pour la surveillance multi-satellitaire,CS Group,

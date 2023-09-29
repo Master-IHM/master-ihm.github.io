@@ -1,25 +1,25 @@
-etudiants,sujet,commanditaire
-OussamaBEN BRAHIM,Development of a cross-platfrom mobile application for rail booking.,"AMADEUS, Sophia Antipolis"
-Maël BOUTONNET,Interaction Technologies for Internet on iTV.,"ruwido France, Toulouse"
-Asmae CHADID,Enhancement of Situational Awareness in Synthetic Vision System: Integration of traffic information innovation.,"ROCKWELL COLLINS, Toulouse"
-Nedra CHAKROUN,Graphic and Functional rearrangement of a Cockpit Display Screen.,"ROCKWELL COLLINS, Toulouse"
-Nicolas CHANTECAILLE,Intégration d'un Web OS dans un démonstrateur visant à optimiser les opérations de maintenance aéronautique.,"SAGEM DEFENSE SECURITE, Toulouse"
-Simon CHARVET,Conception et développement d'une IHM d'aide aux essais SATCOM.,"SOGETI HIGH Tech, Toulouse"
-Hervé DE CARVALHO MOREIRA,Interface pour outil de reporting fédéré.,"INFOTEL CONSEIL, Toulouse"
-Jordane DE MALEZIEU,Evolution d'un outil de création de company route.,"THALES AVIONICS, Toulouse"
-Johan DUPARC,Démonstrateur de station-sol pour l'observation vidéo temps-réel terrestre.,"EADS ASTRIUM, Toulouse"
-Paul DUPRE,Web portal design: sketching and prototyping ergonomics.,"AVTECH FRANCE, Toulouse"
-Adam EL KHAMSI,Integration of 3D HMI for an immersive and tactile cockpit.,"AIRBUS SAS, Toulouse"
-Marie Elisabeth FARAJI,Développement d'une interface homme-machine pour système radar.,"ROCKWELL COLLINS FRANCE, Toulouse"
-Clara FRICK,HMI Design for Surface Operations: integration of charts information to Navigation Display.,"AIRBUS SAS, Toulouse"
-Bastien GATELLIER,Développement et évaluation d'un prototype web de déclaration d'incidents urbains en contexte de mobilité.,"Université Paul Sabatier, Toulouse"
-Yannick GIMENEZ,Impact of moving a regular avionics application to an IT tablet.,"ROCKWELL COLLINS FRANCE, Toulouse"
-Laura HEIM,Animation dans un composant de cartographie terrestre.,"EADS ASTRIUM, Toulouse"
-Hector MARTINEZ CUBERES,Design of HMI solution for airport surface alerts to cover non-compliance issues between ownship state and properties of the airport surface.,"AEROCONSEIL, Toulouse"
-Fabien MOURIER / (contrat PRO),Optimisation d'interface graphique par assemblage de composants pour cible embarquée aéronautique.,"ECA SINTERS, Toulouse"
-Sylvain PAUCHET,Conception d'une application sur tablette tactile de suivi d'anomalies et réserves lors d'un projet de construction.,"YANN BLANCHI ARCHITECTURE, Grenoble"
-Anaïs PEYRUCQ,Mise en œuvre d'un application nomade dédiée à la saisie des observations faune sur le terrain.,"MAKINA CORPUS, Toulouse"
-Christian POUCHEPANADIN,Reconception de l'interface de configuration de simulateurs.,"MBDA, Le Plessis Robinson"
-Mehdi REKHROUKH,Systèmes ATC - Outils d'aide à la conduite d'expérimentation.,"STERIA, Toulouse"
-Augustin ROUSSEAU,Portage d'une application de pilotage d'un drone terrestre sur une tablette tactile.,"SAGEM DEFENSE SECURITE, Toulouse"
-Latifa SOUIBA,Ingénierie de l'IHM de contrôle de l'ODS.,"STERIA, Toulouse"
+etudiants,sujet,commanditaire,type
+OussamaBEN BRAHIM,Development of a cross-platfrom mobile application for rail booking.,"AMADEUS, Sophia Antipolis",
+Maël BOUTONNET,Interaction Technologies for Internet on iTV.,"ruwido France, Toulouse",
+Asmae CHADID,Enhancement of Situational Awareness in Synthetic Vision System: Integration of traffic information innovation.,"ROCKWELL COLLINS, Toulouse",
+Nedra CHAKROUN,Graphic and Functional rearrangement of a Cockpit Display Screen.,"ROCKWELL COLLINS, Toulouse",
+Nicolas CHANTECAILLE,Intégration d'un Web OS dans un démonstrateur visant à optimiser les opérations de maintenance aéronautique.,"SAGEM DEFENSE SECURITE, Toulouse",
+Simon CHARVET,Conception et développement d'une IHM d'aide aux essais SATCOM.,"SOGETI HIGH Tech, Toulouse",
+Hervé DE CARVALHO MOREIRA,Interface pour outil de reporting fédéré.,"INFOTEL CONSEIL, Toulouse",
+Jordane DE MALEZIEU,Evolution d'un outil de création de company route.,"THALES AVIONICS, Toulouse",
+Johan DUPARC,Démonstrateur de station-sol pour l'observation vidéo temps-réel terrestre.,"EADS ASTRIUM, Toulouse",
+Paul DUPRE,Web portal design: sketching and prototyping ergonomics.,"AVTECH FRANCE, Toulouse",
+Adam EL KHAMSI,Integration of 3D HMI for an immersive and tactile cockpit.,"AIRBUS SAS, Toulouse",
+Marie Elisabeth FARAJI,Développement d'une interface homme-machine pour système radar.,"ROCKWELL COLLINS FRANCE, Toulouse",
+Clara FRICK,HMI Design for Surface Operations: integration of charts information to Navigation Display.,"AIRBUS SAS, Toulouse",
+Bastien GATELLIER,Développement et évaluation d'un prototype web de déclaration d'incidents urbains en contexte de mobilité.,"Université Paul Sabatier, Toulouse",
+Yannick GIMENEZ,Impact of moving a regular avionics application to an IT tablet.,"ROCKWELL COLLINS FRANCE, Toulouse",
+Laura HEIM,Animation dans un composant de cartographie terrestre.,"EADS ASTRIUM, Toulouse",
+Hector MARTINEZ CUBERES,Design of HMI solution for airport surface alerts to cover non-compliance issues between ownship state and properties of the airport surface.,"AEROCONSEIL, Toulouse",
+Fabien MOURIER,Optimisation d'interface graphique par assemblage de composants pour cible embarquée aéronautique.,"ECA SINTERS, Toulouse",PRO
+Sylvain PAUCHET,Conception d'une application sur tablette tactile de suivi d'anomalies et réserves lors d'un projet de construction.,"YANN BLANCHI ARCHITECTURE, Grenoble",
+Anaïs PEYRUCQ,Mise en œuvre d'un application nomade dédiée à la saisie des observations faune sur le terrain.,"MAKINA CORPUS, Toulouse",
+Christian POUCHEPANADIN,Reconception de l'interface de configuration de simulateurs.,"MBDA, Le Plessis Robinson",
+Mehdi REKHROUKH,Systèmes ATC - Outils d'aide à la conduite d'expérimentation.,"STERIA, Toulouse",
+Augustin ROUSSEAU,Portage d'une application de pilotage d'un drone terrestre sur une tablette tactile.,"SAGEM DEFENSE SECURITE, Toulouse",
+Latifa SOUIBA,Ingénierie de l'IHM de contrôle de l'ODS.,"STERIA, Toulouse",

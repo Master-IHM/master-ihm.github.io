@@ -17,7 +17,16 @@ Et félicitations aux diplômés de la promo IHM22!
 [https://docs.google.com/forms/d/e/1FAIpQLSdW6xtNUsh89hLr3epxdubKP0UIOqi5d0AYYBCNEtct3CEPDA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdW6xtNUsh89hLr3epxdubKP0UIOqi5d0AYYBCNEtct3CEPDA/viewform)
 {:/comment}
 
-Photos à venir...
+
+Voici quelques photos:
+
+
+![]({{ '/assets/img/conference/PXL_20230928_160236741.jpg'}}){:style="width: 600px;" }
+
+![]({{ '/assets/img/conference/PXL_20230928_162623090.jpg'}}){:style="width: 600px;" }
+
+![]({{ '/assets/img/conference/PXL_20230928_171305433.jpg'}}){:style="width: 600px;" }
+
 
 [Retrouvez la news sur X](https://twitter.com/masterihm/status/1711746372708270162?s=20)
 

@@ -9,11 +9,8 @@ redirect_from:
 
 <iframe width="100%" height="640px" src="https://www.youtube.com/embed/fbscVXioNAM" frameborder="0"> </iframe>
 
-
 La séquence pédagogique de "chef d'œuvre", nommée ainsi en référence au travail des compagnons du tour de France, est un projet réalisé de mi-septembre à mi-mars par un groupe de 3 à 5 étudiants, sur un sujet présentant un intérêt pour une entreprise ou un laboratoire. L'enjeu pédagogique est de dérouler une démarche de conception IHM complète en partant d'un problème donné (demande client) pour aboutir à la production et l'évaluation de solutions (prototypes logiciels de systèmes interactifs).
-
  
-
 Ce projet de synthèse est la colonne vertébrale du semestre 9 du Master IHM permettant d'évaluer l'acquisition de nombreuses compétences, telles que:
 
 * l'analyse des situations d'utilisation et des besoins,
@@ -30,8 +27,6 @@ La quantité de travail attendue par le groupe correspond à ce que pourrait fai
 Le guide [chef d'œuvre mode d'emploi](files/Guide_C0_v4.pdf) contient une description complète des enjeux et du déroulement du chef d'œuvre. Il vous aidera à proposer un sujet adapté et à travailler avec les étudiants qui l'auront choisi tout au long du chef d'œuvre.
 
 Merci d'envoyer vos offres par email à [co.m2ihm@enac.fr](mailto:co.m2ihm@enac.fr), en utilisant [le formulaire de proposition de sujet de chef d'œuvre](files/form_sujet_chef_d_oeuvre_2022.docx).
-
- 
 
 Le calendrier prévisionnel pour les chefs d'œuvre de la promotion 2022 est le suivant :
 

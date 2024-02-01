@@ -108,6 +108,7 @@ D'évaluer l'ergonomie, l'utilisabilité et l'expérience utilisateur
 </div>
 </div>
 
+<!-- 
 # Nos Partenaires
 
 L'équipe pédagogique travaille en étroite collaboration avec des industriels pour continuellement améliorer la qualité de la formation. 
@@ -120,3 +121,5 @@ A ce jour, nous sommes fiers de compter dans notre conseil de perfectionnement d
 ![](assets/img/sogeti.png){:height="120px" width="120px" }
 ![](assets/img/thales.png){:height="120px" width="120px" }
 </p>
+
+-->

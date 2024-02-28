@@ -8,10 +8,11 @@ redirect_from:
 
 # Inscription Master 1
 
-Etapes : [Mise à jour 15 décembre 2021]
 
-1. Dépot de candidatures: [26 avril 2021 - 17 mai 2021] le site principal de candidature est disponible à l'adresse suivante: [Site Candidatures UPS](https://www.univ-tlse3.fr/candidatures-et-inscriptions/candidatures).
-2. Inscription: le site principal d'inscription est disponible à l'adresse suivante: [Site Inscriptions UPS](https://www.univ-tlse3.fr/candidatures-et-inscriptions/inscriptions)
+Etapes : [Mise à jour 28 février 2024]
+
+1. Dépot de candidatures: Dates et modalités sur le site principal de candidature est disponible à l'adresse suivante: [Site Candidatures UPS](https://www.univ-tlse3.fr/candidatures/candidature-en-licence-ou-master).
+2. Inscription: le site principal d'inscription est disponible à l'adresse suivante: [Site Inscriptions UPS-FSI](https://www.univ-tlse3.fr/inscriptions/inscriptions-administratives-1)
 
 Pour plus d'informations vous pouvez contacter la secrétaire du master IHM :
 Sabine Dossant - [sabine.dossant@univ-tlse3.fr](mailto:sabine.dossant@univ-tlse3.fr)
@@ -21,7 +22,7 @@ Sabine Dossant - [sabine.dossant@univ-tlse3.fr](mailto:sabine.dossant@univ-tlse3
 
 Le processus de candidature au master 1, à l'Université Paul Sabatier, comporte plusieurs étapes, qui peuvent varier selon l'université d'origine du candidat.
 
-* Candidature sur les plateformes **en ligne** de fin avril à fin mai sur le site [trouvermonmaster.gouv.fr](https://www.trouvermonmaster.gouv.fr/) 
+* Candidature sur les plateformes **en ligne** [https://www.monmaster.gouv.fr/](https://www.monmaster.gouv.fr/) 
 (pour les étudiants français **titulaires d'une licence en informatique ou équivalent** et 
 les étudiants étrangers titulaires d'une licence en informatique française) ou sur le 
 site de [campusfrance.org](https://www.campusfrance.org/) (pour les étudiants étrangés titulaires d'un diplôme équivalent à une licence en informatique).

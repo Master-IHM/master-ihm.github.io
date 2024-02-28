@@ -8,10 +8,10 @@ redirect_from:
 
 # Inscription Master 2
 
-Etapes : [Mise à jour 15 décembre 2021]
+Etapes : [Mise à jour 28 février 2024]
 
-1. Dépot de candidatures: [3 mai 2021 - 4 juin 2021] le site principal de candidature est disponible à l'adresse suivante: [Site Candidatures UPS](https://www.univ-tlse3.fr/candidatures-et-inscriptions/candidatures).
-2. Inscription: le site principal d'inscription est disponible à l'adresse suivante: [Site Inscriptions UPS](https://www.univ-tlse3.fr/candidatures-et-inscriptions/inscriptions)
+1. Dépot de candidatures: Dates et modalités sur le site principal de candidature est disponible à l'adresse suivante: [Site Candidatures UPS](https://www.univ-tlse3.fr/candidatures/candidature-en-licence-ou-master).
+2. Inscription: le site principal d'inscription est disponible à l'adresse suivante: [Site Inscriptions UPS-FSI](https://www.univ-tlse3.fr/inscriptions/inscriptions-administratives-1)
 
 Pour plus d'informations vous pouvez contacter la secrétaire du master IHM :
 Sabine Dossant - [sabine.dossant@univ-tlse3.fr](mailto:sabine.dossant@univ-tlse3.fr)

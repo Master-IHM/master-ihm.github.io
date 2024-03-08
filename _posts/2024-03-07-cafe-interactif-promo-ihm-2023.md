@@ -3,7 +3,7 @@ layout: news
 use-site-title: true
 image: cafeinteractif
 titre: Café interactif promo IHM 2023
-date: 2024-07-20
+date: 2024-02-20
 description: Soutenance de chef d'œuvre 2023-2024
 ---
 

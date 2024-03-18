@@ -30,7 +30,7 @@ Soutenances du jeudi 21 mars : [lien zoom](https://univ-tlse3-fr.zoom.us/j/92049
 
 **11:00 \| 12:00**
 
-##### Information de trafic pour un pilote HSI (Hearing and Speaking Impaired) | client : [FANS4ALL](https://fans4all.org/) et [ENAC](https://lii.enac.fr/)
+##### Information de trafic pour un pilote HSI (Hearing and Speaking Impaired) | client : [FANS4ALL](https://fans4all.org/), [SII](https://sii-group.com/fr-FR) et [ENAC](https://lii.enac.fr/)
 
 **12:00 - 13:30 \| café intéractif**
 

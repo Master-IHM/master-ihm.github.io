@@ -60,6 +60,9 @@ Philippe Palanque Responsable UPS du Master IHM : palanque@irit.fr
 
 # L'alternance en M2
 
+## M2 2025-2026
+<iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M2_IHM_2025_2026.pdf#toolbar=0&amp;view=Fit" | absolute_url }}" frameborder="0"></iframe>
+
 ## M2 2024-2025
 <iframe width="100%" height="850px" src="{{ "/files/alternances/Planning_Alternance_M2_IHM_2024_2025.pdf#toolbar=0&amp;view=Fit" | absolute_url }}" frameborder="0"></iframe>
 

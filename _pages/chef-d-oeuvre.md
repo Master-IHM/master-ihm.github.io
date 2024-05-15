@@ -25,7 +25,7 @@ La quantité de travail attendue par le groupe correspond à ce que pourrait fai
 # Pour proposer un sujet de chef d'œuvre
 
 Le guide [chef d'œuvre mode d'emploi](files/Guide_C0_v4.pdf) contient une description complète des enjeux et du déroulement du chef d'œuvre. Il vous aidera à proposer un sujet adapté et à travailler avec les étudiants qui l'auront choisi tout au long du chef d'œuvre.
-En proposant un sujet, vous vous engagez à garantir **un accès à des utilisateurs identifiés** pour la phase de compréhension et d'analyse des besoins (cette phase devra être initié avant le 15 octobre 2024).
+En proposant un sujet, vous vous engagez à garantir **un accès à des utilisateurs identifiés** pour la phase de compréhension et d'analyse des besoins (cette phase devra être initiée avant le 15 octobre 2024).
 
 Merci d'envoyer vos offres par email à [co.m2ihm@enac.fr](mailto:co.m2ihm@enac.fr), en utilisant [le formulaire de proposition de sujet de chef d'œuvre](files/form_sujet_chef_d_oeuvre_2024.docx).
 

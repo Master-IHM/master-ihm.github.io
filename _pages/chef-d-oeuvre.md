@@ -25,16 +25,17 @@ La quantité de travail attendue par le groupe correspond à ce que pourrait fai
 # Pour proposer un sujet de chef d'œuvre
 
 Le guide [chef d'œuvre mode d'emploi](files/Guide_C0_v4.pdf) contient une description complète des enjeux et du déroulement du chef d'œuvre. Il vous aidera à proposer un sujet adapté et à travailler avec les étudiants qui l'auront choisi tout au long du chef d'œuvre.
+En proposant un sujet, vous vous engagez à garantir **un accès à des utilisateurs identifiés** pour la phase de compréhension et d'analyse des besoins (cette phase devra être initié avant le 15 octobre 2024).
 
-Merci d'envoyer vos offres par email à [co.m2ihm@enac.fr](mailto:co.m2ihm@enac.fr), en utilisant [le formulaire de proposition de sujet de chef d'œuvre](files/form_sujet_chef_d_oeuvre_2022.docx).
+Merci d'envoyer vos offres par email à [co.m2ihm@enac.fr](mailto:co.m2ihm@enac.fr), en utilisant [le formulaire de proposition de sujet de chef d'œuvre](files/form_sujet_chef_d_oeuvre_2024.docx).
 
-Le calendrier prévisionnel pour les chefs d'œuvre de la promotion 2022 est le suivant :
+Le calendrier prévisionnel pour les chefs d'œuvre de la promotion 2024 est le suivant :
 
-* **15 juin 2022:** date limite de proposition de sujet ;
-* **mi juillet 2022:** évaluation des sujets par l'équipe pédagogique, retours aux clients sur des modifications éventuelles et les compléments d'information à apporter ;
-* **début septembre 2022:** présentation des sujets aux étudiants par les clients; formulation des vœux individuels dans la semaine qui suit ;
-* **septembre 2022:** notification des affectations des sujets aux étudiants ;
-* **mars 2023:** soutenances finales et café interactif.
+* **19 juin 2024:** date limite de proposition de sujet ;
+* **mi juillet 2024:** évaluation des sujets par l'équipe pédagogique, retours aux clients sur des modifications éventuelles et les compléments d'information à apporter ;
+* **début septembre 2024:** présentation des sujets aux étudiants par les clients; formulation des vœux individuels dans la semaine qui suit ;
+* **septembre 2024:** notification des affectations des sujets aux étudiants ;
+* **fin mars 2025:** soutenances finales et café interactif.
 
 Pour tout renseignement, contactez [Sylvain Pauchet](mailto:sylvain.pauchet@enac.fr): sylvain.pauchet@enac.fr / +33 (0)5 62 17 43 06
 

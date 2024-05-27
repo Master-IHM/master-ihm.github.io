@@ -3491,7 +3491,7 @@ tbody.collapse.in {
   right: 0;
   left: auto;
 }
-.dropdown-menu .divider {
+.dropdown-menu .dropdown-divider {
   height: 1px;
   margin: 9.5px 0;
   overflow: hidden;
@@ -3922,17 +3922,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-bottom: 0;
   list-style: none;
 }
-.nav > li {
+.nav-item {
   position: relative;
   display: block;
 }
-.nav > li > a {
+.nav-link {
   position: relative;
   display: block;
   padding: 10px 15px;
 }
-.nav > li > a:hover,
-.nav > li > a:focus {
+.nav-link:hover,
+.nav-link:focus {
   text-decoration: none;
   background-color: #eeeeee;
 }
@@ -4265,7 +4265,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-nav {
-  margin: 6px -15px;
+  margin: 6px -15px;  
+  display:block;
 }
 .navbar-nav > li > a {
   padding-top: 10px;
@@ -4574,7 +4575,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
     border-color: #006687;
   }
-  .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
+  .navbar-inverse .navbar-nav .open .dropdown-menu .dropdown-divider {
     background-color: #006687;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
@@ -6650,6 +6651,7 @@ button.close {
   border: none;
   font-size: 13px;
   font-weight: 300;
+  
 }
 .navbar .navbar-toggle:hover .icon-bar {
   background-color: #b3b3b3;

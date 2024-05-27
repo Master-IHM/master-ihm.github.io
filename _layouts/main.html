@@ -9,49 +9,49 @@
         <div class="container-fluid top-buffer bandGrey">
             <div class="container-fluid bottom-buffer">
                 <div class="row carousel">
-                    <div id="myCarousel" class="carousel slide multi-item-carousel" data-ride="carousel">
+                    <div id="myCarousel" class="carousel slide multi-item-carousel carousel-dark" data-bs-interval="false">
                         <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                            <li data-target="#myCarousel" data-slide-to="3"></li>
-                            <li data-target="#myCarousel" data-slide-to="4"></li>
-                            <li data-target="#myCarousel" data-slide-to="5"></li>
-                            <li data-target="#myCarousel" data-slide-to="6"></li>
+                            <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
+                            <li data-bs-target="#myCarousel" data-bs-slide-to="1"></li>
+                            <li data-bs-target="#myCarousel" data-bs-slide-to="2"></li>
+                            <li data-bs-target="#myCarousel" data-bs-slide-to="3"></li>
+                            <li data-bs-target="#myCarousel" data-bs-slide-to="4"></li>
+                            <li data-bs-target="#myCarousel" data-bs-slide-to="5"></li>
+                            <li data-bs-target="#myCarousel" data-bs-slide-to="6"></li>
                         </ol>
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                            <div class="item active">
+                            <div class="carousel-item active">
                                 <div class="col-sm-4">
                                     <a href="assets/img/slideb1.svg"><img class="img-responsive" src="assets/img/slideb1.svg" alt=""></a>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <div class="col-sm-4">
                                     <a href="assets/img/slideb2.svg"><img class="img-responsive" src="assets/img/slideb2.svg" alt=""></a>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <div class="col-sm-4">
                                     <a href="assets/img/slideb3.svg"><img class="img-responsive" src="assets/img/slideb3.svg" alt=""></a>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <div class="col-sm-4">
                                     <a href="assets/img/slideb4.svg"><img class="img-responsive" src="assets/img/slideb4.svg" alt=""></a>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <div class="col-sm-4">
                                     <a href="assets/img/slideb5.svg"><img class="img-responsive" src="assets/img/slideb5.svg" alt=""></a>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <div class="col-sm-4">
                                     <a href="assets/img/slideb6.svg"><img class="img-responsive" src="assets/img/slideb6.svg" alt=""></a>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <div class="col-sm-4">
                                     <a href="assets/img/slideb7.svg"><img class="img-responsive" src="assets/img/slideb7.svg" alt=""></a>
                                 </div>
@@ -59,14 +59,14 @@
                         </div>
 
                         <!-- Left and right controls -->
-                        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                        <button  class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
                             <span class="glyphicon glyphicon-chevron-left"></span>
                             <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                        </button>
+                        <button  class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
                             <span class="glyphicon glyphicon-chevron-right"></span>
                             <span class="sr-only">Next</span>
-                        </a>
+                        </button>
                     </div>
                 </div>
             </div>
@@ -376,7 +376,7 @@
             <div class="container top-buffer bottom-buffer">
                 <h2 class="top-buffer bottom-buffer">Responsables de la formation</h2>
                 <div class="row top-buffer bottom-buffer">
-                    <div class="col-md-4">
+                    <div class="col-md-4 bottom-buffer">
                         <div class="resp">
                             <div class="resp__container">
                                 <div class="resp__photo">
@@ -426,7 +426,8 @@
                 </div>
             </div>
         </div>
+        {% include footer.html %}        
+        {% include script.html %}
         <script src="assets/js/main.js"></script>
-        {% include footer.html %}
     </body>
 </html>

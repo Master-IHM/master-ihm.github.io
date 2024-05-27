@@ -17,50 +17,50 @@
             <div class="center_left navbar-left">
                 <ul class="nav navbar-nav menu__list">
                     {% if page.menuname == "ACCUEIL" -%}
-                    <li class="menu__item menu__item--current">
+                    <li class="nav-item menu__item menu__item--current">
                     {%- else -%} 
-                    <li class="menu__item "> 
+                    <li class="nav-item menu__item "> 
                     {%- endif %}
-                        <a class="menu__link" href="{{ site.base }}{% link _pages/index.md %}">ACCUEIL</a>
+                        <a class="nav-link menu__link" href="{{ site.base }}{% link _pages/index.md %}">ACCUEIL</a>
                     </li>
                     {% if page.menuname == "FORMATION" -%}
-                    <li class="menu__item menu__item--current">
+                    <li class="nav-item menu__item menu__item--current">
                     {%- else -%} 
-                    <li class="menu__item "> 
+                    <li class="nav-item menu__item "> 
                     {%- endif %}
-                        <a class="menu__link" href="{{ site.base }}{% link _pages/formation.md %}">FORMATION</a>
+                        <a class="nav-link menu__link" href="{{ site.base }}{% link _pages/formation.md %}">FORMATION</a>
                     </li>
                     {% if page.menuname == "ALTERNANCE" -%}
-                    <li class="menu__item menu__item--current">
+                    <li class="nav-item menu__item menu__item--current">
                     {%- else -%} 
-                     <li class="menu__item "> 
+                     <li class="nav-item menu__item "> 
                     {%- endif %}
-                        <a class="menu__link" href="{{ site.base }}{% link _pages/alternance.md %}">ALTERNANCE</a>
+                        <a class="nav-link menu__link" href="{{ site.base }}{% link _pages/alternance.md %}">ALTERNANCE</a>
                     </li>
                 </ul>
             </div>
             <div class="center_right navbar-right">
                 <ul class="nav navbar-nav menu__list">
                     {% if page.menuname == "IHM" -%}
-                    <li class="menu__item menu__item--current">
+                    <li class="nav-item menu__item menu__item--current">
                     {%- else -%} 
-                    <li class="menu__item "> 
+                    <li class="nav-item menu__item "> 
                     {%- endif %}
-                        <a class="menu__link" href="{{ site.base }}{% link _pages/le-monde-de-l-ihm.md %}">L'IHM</a>
+                        <a class="nav-link menu__link" href="{{ site.base }}{% link _pages/le-monde-de-l-ihm.md %}">L'IHM</a>
                     </li>
                     {% if page.menuname == "EDT" -%}
-                    <li class="menu__item menu__item--current">
+                    <li class="nav-item menu__item menu__item--current">
                     {%- else -%} 
-                    <li class="menu__item "> 
+                    <li class="nav-item menu__item "> 
                     {%- endif %}
-                        <a class="menu__link" href="{{ site.base }}{% link _pages/stages.md %}">STAGES</a>
+                        <a class="nav-link menu__link" href="{{ site.base }}{% link _pages/stages.md %}">STAGES</a>
                     </li>
                     {% if page.menuname == "CONTACT" -%}
-                    <li class="menu__item menu__item--current">
+                    <li class="nav-item menu__item menu__item--current">
                     {%- else -%} 
-                    <li class="menu__item "> 
+                    <li class="nav-item menu__item "> 
                     {%- endif %}
-                        <a class="menu__link" href="{{ site.base }}{% link _pages/contact.md %}">CONTACT</a>
+                        <a class="nav-link menu__link" href="{{ site.base }}{% link _pages/contact.md %}">CONTACT</a>
                     </li>
                 </ul>
             </div>

@@ -67,13 +67,15 @@ if (!self.__WB_pmw) {
 
 
 // Instantiate the Bootstrap carousel
-    $('.multi-item-carousel').carousel({
+    const myCarouselElement = document.querySelector('.multi-item-carousel')
+
+    const carousel = new bootstrap.Carousel(myCarouselElement, {
         interval: false
     });
 
     // for every slide in carousel, copy the next slide's item in the slide.
     // Do the same for the next, next item.
-    $('.multi-item-carousel .item').each(function () {
+    $('.multi-item-carousel .carousel-item').each(function () {
         var next = $(this).next();
         if (!next.length) {
             next = $(this).siblings(':first');

@@ -22,13 +22,12 @@ body {
 
 
 /* _______________CARROUSEL _______________*/
-/* Maurice melchers*/
+/* Maurice melchers
 .multi-item-carousel {
     .carousel-inner {
-        >.item {
+        >.carousel-item {
             transition: 500ms ease-in-out left;
         }
-
         .active {
             &.left {
                 left: -33%;
@@ -49,7 +48,7 @@ body {
 
         @media all and (transform-3d),
         (-webkit-transform-3d) {
-            >.item {
+            >.carousel-item {
                 // use your favourite prefixer here
                 transition: 500ms ease-in-out left;
                 transition: 500ms ease-in-out all;
@@ -68,7 +67,7 @@ body {
     }
 }
 
-a .carousel-control {
+button .carousel-control {
     background-image: none;
 }
 
@@ -82,16 +81,16 @@ a .carousel-control {
     margin-top: 0px;
     margin-bottom: 30px;
 }
-
-.carousel .item img {
+*/
+.carousel .carousel-item img {
     /* height:250px;
  width : 100%;*/
 }
 
-.carousel .item img {
+.carousel .carousel-item img {
     /*object-fit:fill;*/
 }
-
+/*
 .carousel-indicators li {
     border: 1px solid black;
 }
@@ -109,7 +108,7 @@ a .carousel-control {
         bottom: -20%;
     }
 }
-
+*/
 /* _______________ END CARROUSEL _______________*/
 
 /*TIME LINE -------------------------------------------------------------*/

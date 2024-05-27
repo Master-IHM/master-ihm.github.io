@@ -6137,6 +6137,7 @@ button.close {
 .popover-content {
   padding: 9px 14px;
 }
+
 .carousel {
   position: relative;
 }
@@ -6293,8 +6294,8 @@ button.close {
 }
 .carousel-indicators li {
   display: inline-block;
-  width: 10px;
-  height: 10px;
+  width: 12px;
+  height: 12px;
   margin: 1px;
   text-indent: -999px;
   cursor: pointer;
@@ -6304,7 +6305,7 @@ button.close {
   border-radius: 10px;
 }
 .carousel-indicators .active {
-  width: 12px;
+  /*width: 12px;*/
   height: 12px;
   margin: 0;
   background-color: #ffffff;
@@ -6348,7 +6349,7 @@ button.close {
     padding-bottom: 30px;
   }
   .carousel-indicators {
-    bottom: 20px;
+    bottom: -40px;
   }
 }
 .clearfix:before,

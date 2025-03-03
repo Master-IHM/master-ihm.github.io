@@ -6,42 +6,38 @@ redirect_from:
   - /page/soutenances
 ---
 
-# Soutenances et démonstrations des chefs d'œuvre du Master IHM 2024
+# Soutenances et démonstrations des chefs d'œuvre du Master IHM 2024-2025
 
-Les soutenances des chefs d'œuvre du Master IHM 2023 se dérouleront le **jeudi 21 mars 2024** à l'ENAC dans l'amphithéâtre Bellonte. 
-Les étudiants présenteront leur projet au public sous forme de discussion durant le **café interactif le jeudi 21 mars de 12h00 à 13h30** 
+Les soutenances des chefs d'œuvre du Master IHM 2023 se dérouleront le **mercredi 26 mars 2025** à l'ENAC dans l'amphithéâtre Bellonte. 
+Les étudiants présenteront leur projet au public sous forme de discussion durant le **café interactif le mercredi 26 mars de 12h00 à 13h30** 
 dans le hall du bâtiment B devant les amphis Bellonte et Costes à l'ENAC.
 
 Nous vous invitons à venir en présentiel à l'ENAC ou à participer aux soutenances à distance en cliquant sur le lien zoom ci-dessous :
 
-Soutenances du jeudi 21 mars : [lien zoom](https://univ-tlse3-fr.zoom.us/j/92049973280)
+Soutenances du mercredi 26 mars : [lien zoom](https://univ-tlse3-fr.zoom.us/j/97329611321)
 
  
 
-**JEUDI 21 MARS 2024**
+**MERCREDI 26 MARS 2025**
 
-**8:30 \| 9:30**
+**9:15 \| 10:15**
 
-##### Physiotools : Un hub médical pour l’ISS | client : [CNES-MEDES](https://www.medes.fr/)
+##### Création d’un site de réservation en ligne des terrains de tennis ENAC | client : [ENAC](https://www.enac.fr/)
 
-**9:45 \| 10:45**
+**10:30 \| 11:30**
 
-##### EchoFinder : un assistant à la réalisation d’échographie en réalité augmentée | client : [CNES-MEDES](https://www.medes.fr/)
-
-**11:00 \| 12:00**
-
-##### Information de trafic pour un pilote HSI (Hearing and Speaking Impaired) | client : [FANS4ALL](https://fans4all.org/), [SII](https://sii-group.com/fr-FR) et [ENAC](https://lii.enac.fr/)
+##### Refonte de l’interface utilisateur d’une solution d’analyse IA d’électroencéphalogrammes pour la prise en charge de l’épilepsie | client : [Avrio MedTech](https://www.avriomedtech.com/)
 
 **12:00 - 13:30 \| café intéractif**
 
 **13:45 \| 14:45**
 
-##### Conception d’une fonctionnalité de recherche de données dans l’outil de pilotage Squore | client : [Vector](https://www.vector.com/fr/fr/entreprise/contacts/vector-france/)
+##### I CAN SII, système d’assistance humaine pour la mobilité des personnes malvoyantes | client : [SII](https://sii-group.com/fr-FR)
 
 **15:00 \| 16:00**
 
-##### Modernisation des paradigmes des logiciels de supervision systèmes | client : [Sopra Steria](https://www.soprasteria.com/fr)
+##### OneStock : refonte de la StoreApp | client : [OneStock](https://www.onestock-retail.com/fr/)
 
 **16:15 \| 17:15**
 
-##### Odyssée Alpha | client : Sultra&Barthélémy
+##### Prototype pour un site de présentation des options en vue de la customisation des avions Airbus | client : [Airbus](https://www.airbus.com/)

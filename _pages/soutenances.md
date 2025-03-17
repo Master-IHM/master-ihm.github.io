@@ -41,3 +41,6 @@ Soutenances du mercredi 26 mars : [lien zoom](https://univ-tlse3-fr.zoom.us/j/97
 **16:15 \| 17:15**
 
 ##### Prototype pour un site de présentation des options en vue de la customisation des avions Airbus | client : [Airbus](https://www.airbus.com/)
+
+
+![](assets/img/IHM24-25.jpg){:height="788px" width="554px" }

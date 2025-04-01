@@ -57,7 +57,7 @@ Enfin, en aucun cas, la taille de l'entreprise n'est un critère à lui seul.
 
 Philippe Palanque Responsable UPS du Master IHM : palanque@irit.fr
 
-
+{% comment %}
 # Planning 2023-2024
 
 ## M1 IHM 
@@ -67,22 +67,34 @@ Philippe Palanque Responsable UPS du Master IHM : palanque@irit.fr
 ## M2 IHM 
 
 [![M2]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2023_2024.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
+{% endcomment %}
 
 # Planning 2024-2025
 
 ## M1 IHM
 
-[![L3M1]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M1_IHM_2024_2025.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
+[![M120242025]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M1_IHM_2024_2025.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
 
 ## M2 IHM 
-[![M2M2]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2024_2025.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
+[![M220242025]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2024_2025.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
 
 # Planning 2025-2026
 
 ## M1 IHM
 
-Non disponible
+[![M120252026]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M1_IHM_2025_2026.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
 
 ## M2 IHM 
 
-[![L3M2]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2025_2026.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
+[![M220252026]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2025_2026.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
+
+# Planning 2026-2027
+
+## M1 IHM
+
+Non disponible
+
+## M2 IHM
+
+[![M220262027]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2026_2027.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
+

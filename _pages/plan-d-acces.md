@@ -12,7 +12,7 @@ redirect_from:
 
 68 - La terrasse/Ramonville Metro
 
-78 - Université Paul Sabatier/ St Orens Lycée
+78 - Université de Toulouse/ St Orens Lycée
 
 37 - Jolimont/Ramonville Métro
 

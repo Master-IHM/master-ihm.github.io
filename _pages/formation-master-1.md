@@ -20,15 +20,15 @@ Sabine Dossant - [sabine.dossant@univ-tlse3.fr](mailto:sabine.dossant@univ-tlse3
 
 # Accès à la première année du Master IHM
 
-Le processus de candidature au master 1, à l'Université Paul Sabatier, comporte plusieurs étapes, qui peuvent varier selon l'université d'origine du candidat.
+Le processus de candidature au master 1, à l'Université de Toulouse, comporte plusieurs étapes, qui peuvent varier selon l'université d'origine du candidat.
 
 * Candidature sur les plateformes **en ligne** [https://www.monmaster.gouv.fr/](https://www.monmaster.gouv.fr/) 
 (pour les étudiants français **titulaires d'une licence en informatique ou équivalent** et 
 les étudiants étrangers titulaires d'une licence en informatique française) ou sur le 
 site de [campusfrance.org](https://www.campusfrance.org/) (pour les étudiants étrangés titulaires d'un diplôme équivalent à une licence en informatique).
 Les étudiants titulaires d'une **licence professionnelle ne sont pas admissible** dans ce master. Les résultats d'admission seront connus fin juin.
-* Inscription administrative pour les étudiants exterieurs à l'Université Paul Sabatier (se renseigner sur univ-tlse3.fr) 
-et réinscription administrative mi-juillet pour les étudiants de l'université Paul-Sabatier.
+* Inscription administrative pour les étudiants exterieurs à l'Université de Toulouse (se renseigner sur univ-tlse3.fr) 
+et réinscription administrative mi-juillet pour les étudiants de l'Université de Toulouse.
 * Confirmation d'inscription administrative et inscription pédagogique entre fin août et début septembre.
  
 

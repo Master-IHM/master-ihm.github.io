@@ -25,7 +25,7 @@ Les autres devront faire une candidature electronique ( Site général de candid
 
 Les résultats d'admission seront connus fin juin. 
 Une fois les résultats connus, les admis devront s'inscrire (ou se réinscrire) 
-administrativement mi-juillet (pour les étudiants exterieurs à l'Université Paul Sabatier, 
+administrativement mi-juillet (pour les étudiants exterieurs à l'Université de Toulouse, 
 se renseigner sur univ-tlse3.fr). 
 
 La confirmation d'inscription administrative et l'inscription pédagogique 
@@ -106,7 +106,7 @@ Les sujets sont proposés par des entreprises ou des laboratoires de recherche.
 Tout au long de l'année, les étudiants, par groupe de 4 ou 5, travailleront sur ce projet en 
 collaboration avec leurs clients. 
 Les chefs d'œuvre sont présentés au public, début mars à l'occasion d'un café interactif se déroulant soit à l'ENAC, 
-soit à l'Université Paul Sabatier.
+soit à l'Université de Toulouse.
 
 <div class="row">
 <div class="col-sm-6">

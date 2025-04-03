@@ -16,7 +16,7 @@ Le Master IHM apporte des connaissances approfondies dans le domaine de l'ingén
 complémentaires à celles acquises dans une licence informatique (prérequis).
 
 Cette formation se déroule sur deux ans : la première année est un parcours ayant 
-un tronc commun avec le Master Informatique de l'[Université Paul Sabatier](https://www.univ-tlse3.fr/) (Toulouse 3), 
+un tronc commun avec le Master Informatique de l'[Université de Toulouse](https://www.univ-tlse3.fr/) (Toulouse 3), 
 la deuxième année du Master est co-habilitée avec l'[école Nationale de l'Aviation Civile](https://www.enac.fr/fr) (ENAC).
 
 

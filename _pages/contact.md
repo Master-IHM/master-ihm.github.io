@@ -13,7 +13,7 @@ Sabine Dossant\\
 05.61.55.86.39\\
 [sabine.dossant@univ-tlse3.fr](mailto:sabine.dossant@univ-tlse3.fr)
 
-Universite Paul Sabatier\\
+Universite de Toulouse\\
 Faculté Sciences et Ingénierie\\
 Master Interaction Homme-Machine\\
 Secrétariat pédagogique\\

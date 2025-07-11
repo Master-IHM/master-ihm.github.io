@@ -19,7 +19,7 @@ redirect_from:
 </div>
 <div class="col">
 
-# Contrats d’alternants master 2 IHM 
+# Anciens sujets et entreprises d'alternances 2 IHM 
 
 </div>
 </div>
@@ -33,7 +33,7 @@ redirect_from:
 [Informations <br>et <br>Plannings d'alternance]({{ site.baseurl }}{% link _pages/alternance-etudiant.md %}){:class="btn btnPromo"}
 </div>
 <div class="col">
-[Liste des stages d'alternance M2]({{ site.baseurl }}{% link _pages/alternance-etudiant-alternat.md %}){:class="btn btnPromo"}
+[Liste des sujets d'alternance M2]({{ site.baseurl }}{% link _pages/alternance-etudiant-alternat.md %}){:class="btn btnPromo"}
 </div>
 </div>
 

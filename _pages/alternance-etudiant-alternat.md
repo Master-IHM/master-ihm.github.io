@@ -6,7 +6,7 @@ redirect_from:
   - /promotions-m2/stages
 ---
 
-# Stage d'alternance en M2
+# Sujets et entreprises d'alternance en M2
 
 {% assign datas = "" | split: "" %}
 {% for cat in site.data.stages.m2 %}

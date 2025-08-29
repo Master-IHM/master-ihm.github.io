@@ -1,7 +1,7 @@
 etudiants,sujet,commanditaire,type
 Hala Alrifai,Conception de règles de mise en page multi-écrans pour l’arrangement de multiples fenêtres, IRIT
 Chedli Ben Jaafar , Amélioration de l’Utilisabilité et de l’Expérience Utilisateur d’une Application de Gestion d’un Simulateur de Vol , ALTEN Sud Ouest
-Sylvain Chollet , Conception et développement d’une IHM de supervision de simulations , Capgemini, ALT
+Sylvain Chollet , Conception et développement d’une IHM de supervision de simulations , Capgemini,ALT
 Quentin Dijoux , Interactions en Réalité Mixte pour la collaboration entre environnement multi-écrans distants , IRIT
 Alexis Giavarini , Déploiement et amélioration d’un outil de traçabilité avec une architecture REST , TE Connectivity
 Radhia Lahmar , Conception d’un site web pour une agence immobilière , PROCURA IMMOBILIER
@@ -9,10 +9,8 @@ Benjamin Le Blanc , Création d'une plateforme interactive en ligne permettant d
 Valentin Leclair , Evolution de la plateforme Bivett et premiers développements de l’application CytoVet , ENVT
 Jinpeng Liu , Conception et développement d’un site web interactif pour un restaurant , Bunsik Dragon
 Grégory Philippe , Développement d'une Interface Utilisateur Multiplateforme pour le Contrôle de Cartes de Numérisation, Acqiris
-Emilie Plagnet , Conception et développement du chatbot ComeAndTalk , Capgemini, ALT
+Emilie Plagnet , Conception et développement du chatbot ComeAndTalk , Capgemini,ALT
 Lilian Refour , Conception UI et développement full stack de sites web , Adonis
-Josian Rivière , Développement full stack de l’outil My eBCS , Sopra Steria, ALT
+Josian Rivière , Développement full stack de l’outil My eBCS , Sopra Steria,ALT
 Sofian Roche , Evolution du front-end de la plateforme Synapse , Look Up Space
 Hector Rouzaud , Conception et exploration d’un outil interactif pour la conception participative systémique , ENAC
-
-

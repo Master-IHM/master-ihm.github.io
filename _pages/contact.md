@@ -75,4 +75,17 @@ Sylvain Pauchet\\
 
 </div>
 
+<div class="row">
+
+### Conception et maintenance du site web
+
+Eric Barboni\\
+
+[eric.barboni@irit.fr.fr](mailto:eric.barboni@irit.fr)
+
+Universite de Toulouse\\
+
+
+</div>
+
 </div>

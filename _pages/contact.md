@@ -82,5 +82,3 @@ Sylvain Pauchet\\
 
 Eric Barboni\\
 [eric.barboni@irit.fr.fr](mailto:eric.barboni@irit.fr)
-
-Universite de Toulouse

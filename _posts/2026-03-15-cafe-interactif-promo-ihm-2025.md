@@ -3,7 +3,7 @@ layout: news
 use-site-title: true
 image: cafeinteractif2
 titre: Soutenances et café interactif promo IHM 2025-2026
-date: 2025-02-20
+date: 2026-02-20
 description: Soutenance des chefs d'œuvre 2025-2026
 ---
 

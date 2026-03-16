@@ -40,4 +40,4 @@ Nous vous invitons à venir assister aux soutenances et au café interactif auto
 ##### Un environnement de prototypage virtuel pour le cockpit du futur | client : [HDG](https://humandesign.group/)
 
 
-![](assets/img/IHM25-26.jpg){:height="788px" width="554px" }
+![](assets/img/IHM25-26.png){:height="788px" width="554px" }

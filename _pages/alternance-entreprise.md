@@ -69,7 +69,6 @@ Philippe Palanque Responsable UPS du Master IHM : palanque@irit.fr
 
 [![M2]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2023_2024.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
 
-{% endcomment %}
 
 # Planning 2024-2025
 
@@ -79,6 +78,8 @@ Philippe Palanque Responsable UPS du Master IHM : palanque@irit.fr
 
 ## M2 IHM 
 [![M220242025]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2024_2025.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
+
+{% endcomment %}
 
 # Planning 2025-2026
 
@@ -94,9 +95,18 @@ Philippe Palanque Responsable UPS du Master IHM : palanque@irit.fr
 
 ## M1 IHM
 
-Non disponible
+[![M120262027]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M1_IHM_2026_2027.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
 
 ## M2 IHM
 
 [![M220262027]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2026_2027.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
 
+# Planning 2027-2028
+
+## M1 IHM
+
+Planning non disponible
+
+## M2 IHM
+
+[![M220272028]({{ "/assets/img/planning.png" | absolute_url }})]({{ "/files/alternances/Planning_Alternance_M2_IHM_2027_2028.pdf#toolbar=0&amp;view=Fit" | absolute_url }})
